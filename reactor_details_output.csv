@@ -1,0 +1,689 @@
+reactor_Type,model,design_net_capacity,construction_start_date,commercial_operation_date,owner,operator,Shutdown Date,country,reactor_name,Status
+PWR,VVER V-270,376,"01 Jul, 1969","06 Oct, 1977",Ministry of Energy and Natural Resources of RA,Closed Joint Stock Company Armenian NPP,"25 Feb, 1989",Armenia,ARMENIAN-1,Permanent shutdown
+PWR,VVER V-270,375,"01 Jul, 1975","03 May, 1980",Ministry of Energy and Natural Resources of RA,Closed Joint Stock Company Armenian NPP,0,Armenia,ARMENIAN-2,Operational
+PHWR,PHWR KWU,340,"01 Jun, 1968","24 Jun, 1974",NUCLEOELECTRICA ARGENTINA S.A.,NUCLEOELECTRICA ARGENTINA S.A.,0,Argentina,ATUCHA-1,Operational
+PHWR,CANDU 6,608,"01 Apr, 1974","20 Jan, 1984",NUCLEOELECTRICA ARGENTINA S.A.,NUCLEOELECTRICA ARGENTINA S.A.,0,Argentina,EMBALSE,Operational
+PHWR,PHWR KWU,692,"14 Jul, 1981","26 May, 2016",NUCLEOELECTRICA ARGENTINA S.A.,NUCLEOELECTRICA ARGENTINA S.A.,0,Argentina,ATUCHA-2,Operational
+PWR,Prototype,11,"01 Nov, 1957","10 Oct, 1962",CENTRE D'ETUDE DE L'ENERGIE NUCLEAIRE / STUDIECENTRUM VOOR KERNENERGIE,CENTRE D'ETUDE DE L'ENERGIE NUCLEAIRE / STUDIECENTRUM VOOR KERNENERGIE,"30 Jun, 1987",Belgium,BR-3,Permanent shutdown
+PWR,WH 2LP,392,"01 Jul, 1969","15 Feb, 1975","INDIVISION DOEL (EBES , INTERCOM , UNERG)",ENGIE ELECTRABEL + EDF BELGIUM + EDF LUMINUS,0,Belgium,DOEL-1,Operational
+PWR,Framatome 3 loops reactor,870,"01 Jun, 1970","01 Oct, 1975",ENGIE ELECTRABEL,ENGIE ELECTRABEL,0,Belgium,TIHANGE-1,Operational
+PWR,WH 2LP,445,"01 Sep, 1971","01 Dec, 1975","INDIVISION DOEL (EBES , INTERCOM , UNERG)",ENGIE ELECTRABEL + EDF BELGIUM + EDF LUMINUS,0,Belgium,DOEL-2,Operational
+PWR,WH 3LP,1006,"01 Jan, 1975","01 Oct, 1982",SOCIETES REUNIES D'ENERGIE DU BASSIN DE L'ESCAUT SA,ENGIE ELECTRABEL + EDF BELGIUM + EDF LUMINUS,0,Belgium,DOEL-3,Operational
+PWR,WH 3LP,900,"01 Apr, 1976","01 Jun, 1983",ENGIE ELECTRABEL,ENGIE ELECTRABEL,0,Belgium,TIHANGE-2,Operational
+PWR,WH 3LP,1000,"01 Dec, 1978","01 Jul, 1985",SOCIETES REUNIES D'ENERGIE DU BASSIN DE L'ESCAUT SA,ENGIE ELECTRABEL + EDF BELGIUM + EDF LUMINUS,0,Belgium,DOEL-4,Operational
+PWR,WH 3LP,1020,"01 Nov, 1978","01 Sep, 1985",ENGIE ELECTRABEL,ENGIE ELECTRABEL,0,Belgium,TIHANGE-3,Operational
+PWR,VVER V-230,408,"01 Apr, 1970","28 Oct, 1974",0,"KOZLODUY NPP, PLC.","31 Dec, 2002",Bulgaria,KOZLODUY-1,Permanent shutdown
+PWR,VVER V-230,408,"01 Apr, 1970","10 Nov, 1975",0,"KOZLODUY NPP, PLC.","31 Dec, 2002",Bulgaria,KOZLODUY-2,Permanent shutdown
+PWR,VVER V-230,408,"01 Oct, 1973","20 Jan, 1981",Bulgarian Energy Holding Company,"KOZLODUY NPP, PLC.","31 Dec, 2006",Bulgaria,KOZLODUY-3,Permanent shutdown
+PWR,VVER V-230,408,"01 Oct, 1973","20 Jun, 1982",Bulgarian Energy Holding Company,"KOZLODUY NPP, PLC.","31 Dec, 2006",Bulgaria,KOZLODUY-4,Permanent shutdown
+PWR,VVER V-320,1003,"09 Jul, 1980","23 Dec, 1988",Bulgarian Energy Holding Company,"KOZLODUY NPP, PLC.",0,Bulgaria,KOZLODUY-5,Operational
+PWR,VVER V-320,1003,"01 Apr, 1982","30 Dec, 1993",Bulgarian Energy Holding Company,"KOZLODUY NPP, PLC.",0,Bulgaria,KOZLODUY-6,Operational
+PWR,WH 2LP,609,"01 May, 1971","01 Jan, 1985",ELETROBRAS ELETRONUCLEAR S.A.,ELETROBRAS ELETRONUCLEAR S.A.,0,Brazil,ANGRA-1,Operational
+PWR,PRE KONVOI,1245,"01 Jan, 1976","01 Feb, 2001",ELETROBRAS ELETRONUCLEAR S.A.,ELETROBRAS ELETRONUCLEAR S.A.,0,Brazil,ANGRA-2,Operational
+PWR,PRE KONVOI,1340,"01 Jun, 2010",0,ELETROBRAS ELETRONUCLEAR S.A.,ELETROBRAS ELETRONUCLEAR S.A.,0,Brazil,ANGRA-3,Under Construction
+PHWR,CANDU,17,"01 Jan, 1958","01 Oct, 1962",NUCLEAR PORTION: AECL ; CONVENTIONAL PORTION: ONTARIO HYDRO,ONTARIO HYDRO,"01 Aug, 1987",Canada,ROLPHTON NPD,Permanent shutdown
+PHWR,CANDU 750A,770,"01 Jul, 1972","01 Feb, 1978",Ontario Power Generation,Bruce Power,0,Canada,BRUCE-3,Operational
+PHWR,CANDU 750A,769,"01 Sep, 1972","18 Jan, 1979",Ontario Power Generation,Bruce Power,0,Canada,BRUCE-4,Operational
+PHWR,CANDU 6,645,"01 Apr, 1974","01 Oct, 1983",HYDRO QUEBEC,HYDRO QUEBEC,"28 Dec, 2012",Canada,GENTILLY-2,Permanent shutdown
+PHWR,CANDU 500B,516,"01 Nov, 1974","10 May, 1983",Ontario Power Generation,Ontario Power Generation,0,Canada,PICKERING-5,Operational
+PHWR,CANDU 500B,516,"01 Oct, 1975","01 Feb, 1984",Ontario Power Generation,Ontario Power Generation,0,Canada,PICKERING-6,Operational
+PHWR,CANDU 500B,516,"01 Mar, 1976","01 Jan, 1985",Ontario Power Generation,Ontario Power Generation,0,Canada,PICKERING-7,Operational
+PHWR,CANDU 500B,516,"01 Sep, 1976","28 Feb, 1986",Ontario Power Generation,Ontario Power Generation,0,Canada,PICKERING-8,Operational
+PHWR,CANDU 6,660,"01 May, 1975","01 Feb, 1983",NEW BRUNSWICK ELECTRIC POWER COMMISSION,NEW BRUNSWICK ELECTRIC POWER COMMISSION,0,Canada,POINT LEPREAU,Operational
+PHWR,CANDU 750B,822,"01 Jun, 1978","01 Mar, 1985",Ontario Power Generation,Bruce Power,0,Canada,BRUCE-5,Operational
+PHWR,CANDU 750B,822,"01 Jan, 1978","14 Sep, 1984",Ontario Power Generation,Bruce Power,0,Canada,BRUCE-6,Operational
+PHWR,CANDU 200,203,"01 Feb, 1960","26 Sep, 1968","ATOMIC ENERGY OF CANADA, LTD.",ONTARIO HYDRO,"04 May, 1984",Canada,DOUGLAS POINT,Permanent shutdown
+PHWR,CANDU 750B,822,"01 May, 1979","10 Apr, 1986",Ontario Power Generation,Bruce Power,0,Canada,BRUCE-7,Operational
+PHWR,CANDU 750B,795,"01 Aug, 1979","22 May, 1987",Ontario Power Generation,Bruce Power,0,Canada,BRUCE-8,Operational
+PHWR,CANDU 850,881,"01 Apr, 1982","14 Nov, 1992",Ontario Power Generation,Ontario Power Generation,0,Canada,DARLINGTON-1,Operational
+PHWR,CANDU 850,881,"01 Sep, 1981","09 Oct, 1990",Ontario Power Generation,Ontario Power Generation,0,Canada,DARLINGTON-2,Operational
+PHWR,CANDU 850,881,"01 Sep, 1984","14 Feb, 1993",Ontario Power Generation,Ontario Power Generation,0,Canada,DARLINGTON-3,Operational
+PHWR,CANDU 850,881,"01 Jul, 1985","14 Jun, 1993",Ontario Power Generation,Ontario Power Generation,0,Canada,DARLINGTON-4,Operational
+HWLWR,HW BLWR 250,250,"01 Sep, 1966","01 May, 1972",Canadian Nuclear Laboratories Limited,HYDRO QUEBEC,"01 Jun, 1977",Canada,GENTILLY-1,Permanent shutdown
+PHWR,CANDU 500A,508,"01 Jun, 1966","29 Jul, 1971",Ontario Power Generation,Ontario Power Generation,0,Canada,PICKERING-1,Operational
+PHWR,CANDU 500A,508,"01 Sep, 1966","30 Dec, 1971",Ontario Power Generation,Ontario Power Generation,"28 May, 2007",Canada,PICKERING-2,Permanent shutdown
+PHWR,CANDU 500A,508,"01 Dec, 1967","01 Jun, 1972",Ontario Power Generation,Ontario Power Generation,"31 Oct, 2008",Canada,PICKERING-3,Permanent shutdown
+PHWR,CANDU 500A,508,"01 May, 1968","17 Jun, 1973",Ontario Power Generation,Ontario Power Generation,0,Canada,PICKERING-4,Operational
+PHWR,CANDU 791,774,"01 Jun, 1971","01 Sep, 1977",Ontario Power Generation,Bruce Power,0,Canada,BRUCE-1,Operational
+PHWR,CANDU 791,777,"01 Dec, 1970","01 Sep, 1977",Ontario Power Generation,Bruce Power,0,Canada,BRUCE-2,Operational
+PWR,WH 2LP,365,"01 Sep, 1965","09 Dec, 1969",Kernkraftwerk Beznau CH-5312 Döttingen,Kernkraftwerk Beznau CH-5312 Döttingen,0,Switzerland,BEZNAU-1,Operational
+BWR,BWR-4,306,"01 Mar, 1967","06 Nov, 1972",BKW ENERGIE AG,BKW ENERGIE AG,"20 Dec, 2019",Switzerland,MUEHLEBERG,Permanent shutdown
+PWR,WH 2LP,365,"01 Jan, 1968","04 Mar, 1972",Kernkraftwerk Beznau CH-5312 Döttingen,Kernkraftwerk Beznau CH-5312 Döttingen,0,Switzerland,BEZNAU-2,Operational
+PWR,PWR 3 Loop,1010,"01 Dec, 1973","01 Nov, 1979",KERNKRAFTWERK GÖSGEN-DÄNIKEN AG,KERNKRAFTWERK GÖSGEN-DÄNIKEN AG,0,Switzerland,GOESGEN,Operational
+BWR,BWR-6,960,"01 Jan, 1974","15 Dec, 1984",KERNKRAFTWERK LEIBSTADT,KERNKRAFTWERK LEIBSTADT,0,Switzerland,LEIBSTADT,Operational
+PWR,CNP-300,308,"20 Mar, 1985","01 Apr, 1994",QINSHAN NUCLEAR POWER COMPANY,CNNC Nuclear Operation Management Company Limited,0,China,QINSHAN-1,Operational
+PWR,M310,930,"07 Aug, 1987","01 Feb, 1994",GUANDONG NUCLEAR POWER JOINT VENTURE COMPANY LIMITED,"Daya Bay Nuclear Power Operations and Management Co, Ltd.",0,China,DAYA BAY-1,Operational
+PWR,M310,930,"07 Apr, 1988","06 May, 1994",GUANDONG NUCLEAR POWER JOINT VENTURE COMPANY LIMITED,"Daya Bay Nuclear Power Operations and Management Co, Ltd.",0,China,DAYA BAY-2,Operational
+PWR,CNP-600,610,"02 Jun, 1996","15 Apr, 2002",NUCLEAR POWER PLANT QINSHAN JOINT VENTURE COMPANY LTD.,NUCLEAR POWER PLANT QINSHAN JOINT VENTURE COMPANY LTD.,0,China,QINSHAN 2-1,Operational
+PWR,CNP-600,610,"01 Apr, 1997","03 May, 2004",NUCLEAR POWER PLANT QINSHAN JOINT VENTURE COMPANY LTD.,NUCLEAR POWER PLANT QINSHAN JOINT VENTURE COMPANY LTD.,0,China,QINSHAN 2-2,Operational
+PWR,M310,950,"15 May, 1997","28 May, 2002",LINGAO NUCLEAR POWER COMPANY LTD.,"Daya Bay Nuclear Power Operations and Management Co, Ltd.",0,China,LING AO-1,Operational
+PWR,M310,950,"28 Nov, 1997","08 Jan, 2003",LINGAO NUCLEAR POWER COMPANY LTD.,"Daya Bay Nuclear Power Operations and Management Co, Ltd.",0,China,LING AO-2,Operational
+PHWR,CANDU 6,677,"08 Jun, 1998","31 Dec, 2002","The Third Qinshan Joint Venture Company, LTD.","The Third Qinshan Joint Venture Company, LTD.",0,China,QINSHAN 3-1,Operational
+PWR,VVER V-320,1027,"01 Feb, 1987","10 Jun, 2002","CZECH POWER Co., CEZ a.s.","CZECH POWER Co., CEZ a.s.",0,Czech republic,TEMELIN-1,Operational
+PWR,VVER V-320,1029,"01 Feb, 1987","18 Apr, 2003","CZECH POWER Co., CEZ a.s.","CZECH POWER Co., CEZ a.s.",0,Czech republic,TEMELIN-2,Operational
+PWR,VVER V-213,468,"01 Jan, 1979","03 May, 1985","CZECH POWER Co., CEZ a.s.","CZECH POWER Co., CEZ a.s.",0,Czech republic,DUKOVANY-1,Operational
+PWR,VVER V-213,420,"01 Jan, 1979","21 Mar, 1986","CZECH POWER Co., CEZ a.s.","CZECH POWER Co., CEZ a.s.",0,Czech republic,DUKOVANY-2,Operational
+PWR,VVER V-213,420,"01 Mar, 1979","20 Dec, 1986","CZECH POWER Co., CEZ a.s.","CZECH POWER Co., CEZ a.s.",0,Czech republic,DUKOVANY-3,Operational
+PWR,VVER V-213,420,"01 Mar, 1979","19 Jul, 1987","CZECH POWER Co., CEZ a.s.","CZECH POWER Co., CEZ a.s.",0,Czech republic,DUKOVANY-4,Operational
+BWR,BWR,15,"01 Jul, 1958","01 Feb, 1962",VERSUCHSATOMKRAFTWERK KAHL GMBH,VERSUCHSATOMKRAFTWERK KAHL GMBH,"25 Nov, 1985",Germany,VAK KAHL,Permanent shutdown
+PWR,0,630,"01 Dec, 1967","19 May, 1972",KERNKRAFTWERK STADE GMBH,E.ON Kernkraft GmbH,"14 Nov, 2003",Germany,STADE,Permanent shutdown
+HWGCR,pressure tube reactor,100,"01 Jun, 1966","01 Jan, 1973",Karlsruher Institut für Technologie (Kernforschungszentrum Karlsruhe -KfK),KERNKRAFTWERK NIEDERAICHBACH GMBH,"31 Jul, 1974",Germany,NIEDERAICHBACH,Permanent shutdown
+PWR,PWR,1146,"01 Jan, 1970","26 Feb, 1975",RWE Power AG,RWE Power AG,"06 Aug, 2011",Germany,BIBLIS-A,Permanent shutdown
+BWR,BWR-69,770,"15 Apr, 1970","09 Feb, 1977","1. (66,6%) Vattenfall Europe Nuclear Energy GmbH 2. (33,3%) E.ON Kernkraft GmbH",Kernkraftwerk Brunsbüttel GmbH & Co. oHG,"06 Aug, 2011",Germany,BRUNSBUETTEL,Permanent shutdown
+BWR,BWR-69,864,"01 Oct, 1970","26 Mar, 1980",EnBW Kraftwerke AG,EnBW Kernkraft GmbH,"06 Aug, 2011",Germany,PHILIPPSBURG-1,Permanent shutdown
+PWR,PWR,805,"01 Feb, 1972","01 Dec, 1976",1. (98.45%) EnBW 2. (1.55%) four other owners,EnBW Kernkraft GmbH,"06 Aug, 2011",Germany,NECKARWESTHEIM-1,Permanent shutdown
+BWR,BWR-69,870,"01 May, 1972","21 Mar, 1979",E.ON Kernkraft GmbH,E.ON Kernkraft GmbH,"06 Aug, 2011",Germany,ISAR-1,Permanent shutdown
+PWR,PWR,1230,"01 Jul, 1972","06 Sep, 1979",E.ON Kernkraft GmbH,E.ON Kernkraft GmbH,"06 Aug, 2011",Germany,UNTERWESER,Permanent shutdown
+PWR,PWR,1178,"01 Feb, 1972","31 Jan, 1977",RWE Power AG,RWE Power AG,"06 Aug, 2011",Germany,BIBLIS-B,Permanent shutdown
+HTGR,Pebble bed reactor,296,"03 May, 1971","01 Jun, 1987",HOCHTEMPERATUR-KERNKRAFTWERK GMBH,HOCHTEMPERATUR-KERNKRAFTWERK GMBH,"29 Sep, 1988",Germany,THTR-300,Permanent shutdown
+PHWR,-,50,"01 Dec, 1961","19 Dec, 1966",Kerntechnische Entsorgung Karlsruhe GmbH,KERNKRAFTWERK-BETRIEBSGESELLSCHAFT MBH,"03 May, 1984",Germany,MZFR,Permanent shutdown
+BWR,BWR-69,1260,"05 Apr, 1974","28 Mar, 1984",1. (50%) Vattenfall Europe Nuclear Energy GmbH 2. (50%) E.ON Kernkraft GmbH,Kernkraftwerk Krümmel GmbH & Co. oHG,"06 Aug, 2011",Germany,KRUEMMEL,Permanent shutdown
+PWR,PWR,1219,"15 Jan, 1975","18 Aug, 1987",SCN,Kernkraftwerk Gundremmingen GmbH,"09 Sep, 1988",Germany,MUELHEIM-KAERLICH,Permanent shutdown
+PWR,PWR,1225,"01 Jan, 1975","17 Jun, 1982",E.ON Kernkraft GmbH,E.ON Kernkraft GmbH,"27 Jun, 2015",Germany,GRAFENRHEINFELD,Permanent shutdown
+PWR,PWR,1268,"07 Jul, 1977","18 Apr, 1985",EnBW Kernkraft GmbH,EnBW Kernkraft GmbH,"31 Dec, 2019",Germany,PHILIPPSBURG-2,Permanent shutdown
+BWR,BWR-72,1244,"20 Jul, 1976","19 Jul, 1984",1. (75%) RWE Power AG 2. (25%) E.ON Kernkraft GmbH,Kernkraftwerk Gundremmingen GmbH,"31 Dec, 2017",Germany,GUNDREMMINGEN-B,Permanent shutdown
+PWR,PWR,1289,"01 Jun, 1976","01 Feb, 1985","1. (83,3%) PreussenElektra GmbH 2. (16,7%) Stadtwerke Bielefeld",PreussenElektra GmbH,0,Germany,GROHNDE,Operational
+BWR,BWR-72,1249,"20 Jul, 1976","18 Jan, 1985",1. (75%) RWE Power AG 2. (25%) PreussenElektra GmbH,Kernkraftwerk Gundremmingen GmbH,0,Germany,GUNDREMMINGEN-C,Operational
+BWR,0,237,"12 Dec, 1962","12 Apr, 1967",0,KERNKRAFTWERKE GUNDREMMINGEN BETRIEBSGESELLSCHAFT MBH,"13 Jan, 1977",Germany,GUNDREMMINGEN-A,Permanent shutdown
+PWR,Konvoi,1285,"15 Sep, 1982","09 Apr, 1988",1. (75%) PreussenElektra GmbH 2. (25%) Stadtwerke München,PreussenElektra GmbH,0,Germany,ISAR-2,Operational
+PWR,PWR,1307,"01 Jan, 1976","22 Dec, 1986",1. (80%) PreussenElektra GmbH 2. (20%) Vattenfall GmbH,PreussenElektra GmbH,0,Germany,BROKDORF,Operational
+PWR,Konvoi,1242,"10 Aug, 1982","20 Jun, 1988",1. (75%) RWE Power AG 2. (25%) PreussenElektra GmbH,Kernkraftwerke Lippe-Ems GmbH,0,Germany,EMSLAND,Operational
+HTGR,Pebble bed reactor prototype,13,"01 Aug, 1961","19 May, 1969",ARBEITSGEMEINSCHAFT VERSUCHSREAKTOR GMBH,ARBEITSGEMEINSCHAFT VERSUCHSREAKTOR GMBH,"31 Dec, 1988",Germany,AVR JUELICH,Permanent shutdown
+PWR,Konvoi,1225,"09 Nov, 1982","15 Apr, 1989",EnBW Kernkraft GmbH,EnBW Kernkraft GmbH,0,Germany,NECKARWESTHEIM-2,Operational
+PWR,0,283,"15 Mar, 1965","31 Mar, 1969",KERNKRAFTWERK OBRIGHEIM GMBH,EnBW Kraftwerke AG,"11 May, 2005",Germany,OBRIGHEIM,Permanent shutdown
+PWR,VVER-70,62,"01 Jan, 1960","11 Oct, 1966",ENERGIEWERKE Nord GmbH,ENERGIEWERKE Nord GmbH,"01 Jun, 1990",Germany,RHEINSBERG,Permanent shutdown
+PWR,VVER V-230,440,"01 Mar, 1970","12 Jul, 1974",ENERGIEWERKE Nord GmbH,ENERGIEWERKE Nord GmbH,"14 Feb, 1990",Germany,GREIFSWALD-1,Permanent shutdown
+PWR,VVER V-230,408,"01 Mar, 1970","16 Apr, 1975",ENERGIEWERKE Nord GmbH,ENERGIEWERKE Nord GmbH,"14 Feb, 1990",Germany,GREIFSWALD-2,Permanent shutdown
+PWR,VVER V-230,408,"01 Apr, 1972","01 May, 1978",ENERGIEWERKE Nord GmbH,ENERGIEWERKE Nord GmbH,"28 Feb, 1990",Germany,GREIFSWALD-3,Permanent shutdown
+PWR,VVER V-230,408,"01 Apr, 1972","01 Nov, 1979",0,ENERGIEWERKE Nord GmbH,"22 Jul, 1990",Germany,GREIFSWALD-4,Permanent shutdown
+PWR,VVER V-213,408,"01 Dec, 1976","01 Nov, 1989","VEB KKW ""Bruno Leuschner""",ENERGIEWERKE Nord GmbH,"24 Nov, 1989",Germany,GREIFSWALD-5,Permanent shutdown
+BWR,BWR with fossil fuel-fired superheater,183,"01 Oct, 1964","01 Oct, 1968",RWE Nuclear GmbH,Kernkraftwerk Lingen GmbH,"05 Jan, 1977",Germany,LINGEN,Permanent shutdown
+BWR,Superheated steam reactor,23,"01 Jan, 1965","02 Aug, 1970",HEISSDAMPFREAKTOR-BETRIEBSGESELLSCHAFT MBH.,HEISSDAMPFREAKTOR-BETRIEBSGESELLSCHAFT MBH.,"20 Apr, 1971",Germany,HDR GROSSWELZHEIM,Permanent shutdown
+FBR,Prototype,18,"01 Sep, 1974","03 Mar, 1979",Karlsruher Institut für Technologie (Kernforschungszentrum Karlsruhe -KfK),KERNKRAFTWERK-BETRIEBSGESELLSCHAFT MBH,"23 Aug, 1991",Germany,KNK II,Permanent shutdown
+BWR,0,640,"26 Jan, 1968","11 Nov, 1975",PREUSSENELEKTRA KERNKRAFT GMBH&Co KG,PREUSSENELEKTRA KERNKRAFT GMBH&Co KG,"26 Aug, 1994",Germany,WUERGASSEN,Permanent shutdown
+PWR,WH 1LP,153,"24 Jun, 1964","13 Aug, 1969","UNION FENOSA GENERATION, S.A.","UNION FENOSA GENERATION, S.A.","30 Apr, 2006",Spain,JOSE CABRERA-1,Permanent shutdown
+BWR,BWR-6 (Mark 3),939,"09 Sep, 1975","11 Mar, 1985","IBERDROLA, S.A.","IBERDROLA, S.A.",0,Spain,COFRENTES,Operational
+PWR,PWR 3 loops,990,"17 Aug, 1979","06 Aug, 1988","Iberdrola, Gas Natural, Hidroeléctrica del Cantábrico, Nuclenor",CENTRALES NUCLEARES ALMARAZ-TRILLO (ID/UFG/ENDESA/HC/NUCLENOR),0,Spain,TRILLO-1,Operational
+PWR,WH 3LP,930,"29 Dec, 1980","08 Mar, 1988","ENDESA, IBERDROLA",ASOCIACIÓN NUCLEAR ASCÓ-VANDELLÓS A.I.E. (ENDESA/ID),0,Spain,VANDELLOS-2,Operational
+BWR,BWR-3,440,"01 Sep, 1966","11 May, 1971","NUCLENOR, S.A.","NUCLENOR, S.A.","02 Aug, 2017",Spain,SANTA MARIA DE GARONA,Permanent shutdown
+GCR,0,480,"21 Jun, 1968","02 Aug, 1972","HISPANO-FRANCESA DE ENERGIA NUCLEAR, S.A.","HISPANO-FRANCESA DE ENERGIA NUCLEAR, S.A.","31 Jul, 1990",Spain,VANDELLOS-1,Permanent shutdown
+PWR,WH 3LP,900,"03 Jul, 1973","01 Sep, 1983","Iberdrola, Endesa, Gas Natural",CENTRALES NUCLEARES ALMARAZ-TRILLO (ID/UFG/ENDESA/HC/NUCLENOR),0,Spain,ALMARAZ-1,Operational
+PWR,WH 3LP,900,"03 Jul, 1973","01 Jul, 1984","Iberdrola, Endesa, Gas Natural",CENTRALES NUCLEARES ALMARAZ-TRILLO (ID/UFG/ENDESA/HC/NUCLENOR),0,Spain,ALMARAZ-2,Operational
+PWR,WH 3LP,995,"16 May, 1974","10 Dec, 1984","ENDESA, S.A.",ASOCIACIÓN NUCLEAR ASCÓ-VANDELLÓS A.I.E. (ENDESA/ID),0,Spain,ASCO-1,Operational
+PWR,WH 3LP,997,"07 Mar, 1975","31 Mar, 1986","ENDESA, IBERDROLA",ASOCIACIÓN NUCLEAR ASCÓ-VANDELLÓS A.I.E. (ENDESA/ID),0,Spain,ASCO-2,Operational
+PWR,VVER V-213,420,"01 May, 1971","09 May, 1977",FORTUM POWER AND HEAT OY (former IVO),FORTUM POWER AND HEAT OY (former IVO),0,Finland,LOVIISA-1,Operational
+PWR,VVER V-213,420,"01 Aug, 1972","05 Jan, 1981",FORTUM POWER AND HEAT OY (former IVO),FORTUM POWER AND HEAT OY (former IVO),0,Finland,LOVIISA-2,Operational
+BWR,"AA-III, BWR-2500",660,"01 Feb, 1974","10 Oct, 1979",TEOLLISUUDEN VOIMA OYJ,TEOLLISUUDEN VOIMA OYJ,0,Finland,OLKILUOTO-1,Operational
+BWR,"AA-III, BWR-2500",660,"01 Nov, 1975","10 Jul, 1982",TEOLLISUUDEN VOIMA OYJ,TEOLLISUUDEN VOIMA OYJ,0,Finland,OLKILUOTO-2,Operational
+GCR,0,36,"01 Mar, 1956","04 Apr, 1960",COMMISSARIAT A L'ENERGIE ATOMIQUE,COMPAGNIE GENERALE DES MATIERES NUCLEAIRES,"20 Jun, 1984",France,G-3 (MARCOULE),Permanent shutdown
+FBR,PH-250,233,"01 Nov, 1968","14 Jul, 1974",COMMISSARIAT A L'ENERGIE ATOMIQUE,Commissariat à l'Energie Atomique (80%) Electricité de France (20%),"01 Feb, 2010",France,PHENIX,Permanent shutdown
+PWR,CP0,880,"01 Sep, 1971","01 Jan, 1978",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"22 Feb, 2020",France,FESSENHEIM-1,Permanent shutdown
+PWR,CP0,880,"01 Feb, 1972","01 Apr, 1978",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"30 Jun, 2020",France,FESSENHEIM-2,Permanent shutdown
+PWR,CP0,920,"01 Nov, 1972","01 Mar, 1979",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BUGEY-2,Operational
+PWR,CP0,920,"01 Sep, 1973","01 Mar, 1979",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BUGEY-3,Operational
+PWR,CP0,900,"01 Jun, 1974","01 Jul, 1979",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BUGEY-4,Operational
+PWR,CP0,900,"01 Jul, 1974","03 Jan, 1980",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BUGEY-5,Operational
+PWR,CP2,915,"01 May, 1976","01 Aug, 1983",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,ST. LAURENT B-1,Operational
+PWR,CP1,915,"01 Nov, 1974","01 Dec, 1980",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,TRICASTIN-1,Operational
+PWR,CP1,915,"01 Dec, 1974","01 Dec, 1980",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,TRICASTIN-2,Operational
+GCR,0,36,"01 Mar, 1955","22 Apr, 1959",Commissariat à l'Energie Atomique (80%) Electricité de France (20%),COMPAGNIE GENERALE DES MATIERES NUCLEAIRES,"02 Feb, 1980",France,G-2 (MARCOULE),Permanent shutdown
+GCR,UNGG,68,"01 Feb, 1957","01 Feb, 1964",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"16 Apr, 1973",France,CHINON A-1,Permanent shutdown
+PWR,CP1,910,"01 Feb, 1975","25 Nov, 1980",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,GRAVELINES-1,Operational
+PWR,CP1,910,"01 Mar, 1975","01 Dec, 1980",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,GRAVELINES-2,Operational
+PWR,CP1,890,"01 Feb, 1975","10 Sep, 1980",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,DAMPIERRE-1,Operational
+PWR,CP2,880,"01 Jul, 1976","01 Aug, 1983",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,ST. LAURENT B-2,Operational
+FBR,Na-1200,1200,"13 Dec, 1976","01 Dec, 1986",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"31 Dec, 1998",France,SUPER-PHENIX,Permanent shutdown
+PWR,CP1,915,"01 Apr, 1975","11 May, 1981",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,TRICASTIN-3,Operational
+PWR,CP1,915,"01 May, 1975","01 Nov, 1981",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,TRICASTIN-4,Operational
+PWR,CP1,910,"01 Dec, 1975","01 Jun, 1981",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,GRAVELINES-3,Operational
+PWR,CP1,910,"01 Apr, 1976","01 Oct, 1981",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,GRAVELINES-4,Operational
+PWR,CP1,890,"01 Apr, 1975","16 Feb, 1981",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,DAMPIERRE-2,Operational
+GCR,UNGG,170,"01 Aug, 1959","24 Feb, 1965",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"14 Jun, 1985",France,CHINON A-2,Permanent shutdown
+PWR,CP1,890,"01 Sep, 1975","27 May, 1981",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,DAMPIERRE-3,Operational
+PWR,CP1,890,"01 Dec, 1975","20 Nov, 1981",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,DAMPIERRE-4,Operational
+PWR,CP1,910,"01 Jan, 1977","01 Dec, 1981",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BLAYAIS-1,Operational
+PWR,CP1,910,"01 Jan, 1977","01 Feb, 1983",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BLAYAIS-2,Operational
+PWR,CP1,910,"01 Apr, 1978","14 Nov, 1983",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BLAYAIS-3,Operational
+PWR,CP1,910,"01 Apr, 1978","01 Oct, 1983",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BLAYAIS-4,Operational
+PWR,P4 REP 1300,1330,"15 Aug, 1977","01 Dec, 1985",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,PALUEL-1,Operational
+PWR,P4 REP 1300,1330,"01 Jan, 1978","01 Dec, 1985",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,PALUEL-2,Operational
+PWR,P4 REP 1300,1330,"01 Feb, 1979","01 Feb, 1986",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,PALUEL-3,Operational
+PWR,P4 REP 1300,1330,"01 Feb, 1980","01 Jun, 1986",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,PALUEL-4,Operational
+GCR,UNGG,480,"01 Mar, 1961","04 Aug, 1966",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"15 Jun, 1990",France,CHINON A-3,Permanent shutdown
+PWR,CP2,870,"01 Mar, 1977","01 Feb, 1984",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CHINON B-1,Operational
+PWR,CP2,870,"01 Mar, 1977","01 Aug, 1984",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CHINON B-2,Operational
+PWR,CP2,880,"01 Aug, 1978","02 Apr, 1984",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CRUAS-1,Operational
+PWR,CP2,915,"15 Nov, 1978","01 Apr, 1985",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CRUAS-2,Operational
+PWR,CP2,880,"15 Apr, 1979","10 Sep, 1984",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CRUAS-3,Operational
+PWR,CP2,880,"01 Oct, 1979","11 Feb, 1985",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CRUAS-4,Operational
+PWR,P4 REP 1300,1330,"01 Dec, 1979","01 Dec, 1986",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,FLAMANVILLE-1,Operational
+PWR,P4 REP 1300,1330,"01 May, 1980","09 Mar, 1987",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,FLAMANVILLE-2,Operational
+PWR,P4 REP 1300,1335,"29 Jan, 1979","01 May, 1986",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,ST. ALBAN-1,Operational
+PWR,P4 REP 1300,1335,"31 Jul, 1979","01 Mar, 1987",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,ST. ALBAN-2,Operational
+PWR,CHOOZ-A,280,"01 Jan, 1962","15 Apr, 1967",ÉLECTRICITÉ DE FRANCE,SOCIETE D'ENERGIE NUCLEAIRE FRANCO-BELGE DES ARDENNES,"30 Oct, 1991",France,CHOOZ-A (ARDENNES),Permanent shutdown
+PWR,P4 REP 1300,1300,"29 Oct, 1979","01 Apr, 1987",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CATTENOM-1,Operational
+PWR,CP1,910,"01 Oct, 1979","15 Jan, 1985",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,GRAVELINES-5,Operational
+PWR,CP1,910,"01 Oct, 1979","25 Oct, 1985",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,GRAVELINES-6,Operational
+PWR,P4 REP 1300,1300,"28 Jul, 1980","01 Feb, 1988",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CATTENOM-2,Operational
+PWR,P4 REP 1300,1310,"01 May, 1980","01 Jun, 1988",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BELLEVILLE-1,Operational
+PWR,P4 REP 1300,1310,"01 Aug, 1980","01 Jan, 1989",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,BELLEVILLE-2,Operational
+PWR,CP2,905,"01 Oct, 1980","04 Mar, 1987",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CHINON B-3,Operational
+PWR,CP2,905,"01 Feb, 1981","01 Apr, 1988",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CHINON B-4,Operational
+PWR,P4 REP 1300,1310,"26 May, 1981","24 Feb, 1988",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,NOGENT-1,Operational
+PWR,P4 REP 1300,1310,"01 Jan, 1982","01 May, 1989",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,NOGENT-2,Operational
+HWGCR,MONTS-D'ARREE,70,"01 Jul, 1962","01 Jun, 1968",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"31 Jul, 1985",France,EL-4 (MONTS D'ARREE),Permanent shutdown
+PWR,P4 REP 1300,1300,"15 Jun, 1982","01 Feb, 1991",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CATTENOM-3,Operational
+PWR,P4 REP 1300,1310,"17 Nov, 1982","01 Feb, 1991",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,GOLFECH-1,Operational
+PWR,N4 REP 1450,1455,"01 Jan, 1984","15 May, 2000",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CHOOZ B-1,Operational
+PWR,P4 REP 1300,1330,"01 Sep, 1982","01 Dec, 1990",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,PENLY-1,Operational
+PWR,P4 REP 1300,1330,"01 Aug, 1984","01 Nov, 1992",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,PENLY-2,Operational
+PWR,P4 REP 1300,1300,"28 Sep, 1983","01 Jan, 1992",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CATTENOM-4,Operational
+PWR,P4 REP 1300,1310,"01 Oct, 1984","04 Mar, 1994",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,GOLFECH-2,Operational
+GCR,UNGG,480,"01 Oct, 1963","01 Jun, 1969",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"18 Apr, 1990",France,ST. LAURENT A-1,Permanent shutdown
+PWR,N4 REP 1450,1455,"31 Dec, 1985","29 Sep, 2000",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CHOOZ B-2,Operational
+PWR,N4 REP 1450,1450,"15 Oct, 1988","29 Jan, 2002",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CIVAUX-1,Operational
+PWR,N4 REP 1450,1450,"01 Apr, 1991","23 Apr, 2002",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,CIVAUX-2,Operational
+GCR,UNGG,515,"01 Jan, 1966","01 Nov, 1971",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"27 May, 1992",France,ST. LAURENT A-2,Permanent shutdown
+GCR,UNGG,540,"01 Dec, 1965","01 Jul, 1972",ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,"27 May, 1994",France,BUGEY-1,Permanent shutdown
+GCR,MAGNOX,35,"01 Aug, 1953","01 Oct, 1956",Nuclear Decommissioning Authority,Sellafield Limited,"31 Mar, 2003",United kingdom,CALDER HALL-1,Permanent shutdown
+GCR,MAGNOX,35,"01 Aug, 1953","01 Feb, 1957",Nuclear Decommissioning Authority,Sellafield Limited,"31 Mar, 2003",United kingdom,CALDER HALL-2,Permanent shutdown
+GCR,MAGNOX,35,"01 Aug, 1955","01 May, 1958",Nuclear Decommissioning Authority,Sellafield Limited,"31 Mar, 2003",United kingdom,CALDER HALL-3,Permanent shutdown
+GCR,MAGNOX,35,"01 Aug, 1955","01 Apr, 1959",Nuclear Decommissioning Authority,Sellafield Limited,"31 Mar, 2003",United kingdom,CALDER HALL-4,Permanent shutdown
+GCR,MAGNOX,290,"01 Apr, 1961","25 Mar, 1966",Nuclear Decommissioning Authority,"MAGNOX, LTD","31 Dec, 2006",United kingdom,SIZEWELL A-1,Permanent shutdown
+GCR,MAGNOX,290,"01 Apr, 1961","15 Sep, 1966",Nuclear Decommissioning Authority,"MAGNOX, LTD","31 Dec, 2006",United kingdom,SIZEWELL A-2,Permanent shutdown
+GCR,MAGNOX,300,"01 May, 1962","31 Dec, 1967",Nuclear Decommissioning Authority,"MAGNOX, LTD","29 Feb, 2012",United kingdom,OLDBURY A-1,Permanent shutdown
+GCR,MAGNOX,300,"01 May, 1962","30 Sep, 1968",Nuclear Decommissioning Authority,"MAGNOX, LTD","30 Jun, 2011",United kingdom,OLDBURY A-2,Permanent shutdown
+SGHWR,0,92,"01 May, 1963","01 Jan, 1968",UNITED KINGDOM ATOMIC ENERGY AUTHORITY,UNITED KINGDOM ATOMIC ENERGY AUTHORITY,"11 Sep, 1990",United kingdom,WINFRITH SGHWR,Permanent shutdown
+GCR,MAGNOX,550,"01 Sep, 1963","01 Nov, 1971",Nuclear Decommissioning Authority,"MAGNOX, LTD","30 Dec, 2015",United kingdom,WYLFA-1,Permanent shutdown
+GCR,MAGNOX,550,"01 Sep, 1963","03 Jan, 1972",Nuclear Decommissioning Authority,"MAGNOX, LTD","25 Apr, 2012",United kingdom,WYLFA-2,Permanent shutdown
+FBR,0,14,"01 Mar, 1955","01 Oct, 1962",UNITED KINGDOM ATOMIC ENERGY AUTHORITY,UNITED KINGDOM ATOMIC ENERGY AUTHORITY,"01 Mar, 1977",United kingdom,DOUNREAY DFR,Permanent shutdown
+FBR,0,234,"01 Jan, 1966","01 Jul, 1976",UNITED KINGDOM ATOMIC ENERGY AUTHORITY,UNITED KINGDOM ATOMIC ENERGY AUTHORITY,"31 Mar, 1994",United kingdom,DOUNREAY PFR,Permanent shutdown
+GCR,AGR,625,"01 Sep, 1967","02 Oct, 1978",EDF Energy,EDF Energy,0,United kingdom,HINKLEY POINT B-1,Operational
+GCR,AGR,625,"01 Sep, 1967","27 Sep, 1976",EDF Energy,EDF Energy,0,United kingdom,HINKLEY POINT B-2,Operational
+GCR,AGR,624,"01 Nov, 1967","06 Feb, 1976",EDF Energy,EDF Energy,0,United kingdom,HUNTERSTON B-1,Operational
+GCR,AGR,624,"01 Nov, 1967","31 Mar, 1977",EDF Energy,EDF Energy,0,United kingdom,HUNTERSTON B-2,Operational
+GCR,AGR,607,"01 Oct, 1965","01 Apr, 1985",EDF Energy,EDF Energy,0,United kingdom,DUNGENESS B-1,Operational
+GCR,AGR,545,"01 Oct, 1965","01 Apr, 1989",EDF Energy,EDF Energy,0,United kingdom,DUNGENESS B-2,Operational
+GCR,AGR,590,"01 Oct, 1968","01 Apr, 1989",EDF Energy,EDF Energy,0,United kingdom,HARTLEPOOL A-1,Operational
+GCR,AGR,595,"01 Oct, 1968","01 Apr, 1989",EDF Energy,EDF Energy,0,United kingdom,HARTLEPOOL A-2,Operational
+GCR,MAGNOX,35,"01 Oct, 1955","01 Mar, 1959",Nuclear Decommissioning Authority,"MAGNOX, LTD","29 Jun, 2004",United kingdom,CHAPELCROSS-1,Permanent shutdown
+GCR,MAGNOX,35,"01 Oct, 1955","01 Aug, 1959",Nuclear Decommissioning Authority,"MAGNOX, LTD","29 Jun, 2004",United kingdom,CHAPELCROSS-2,Permanent shutdown
+GCR,MAGNOX,35,"01 Oct, 1955","01 Dec, 1959",Nuclear Decommissioning Authority,"MAGNOX, LTD","29 Jun, 2004",United kingdom,CHAPELCROSS-3,Permanent shutdown
+GCR,MAGNOX,35,"01 Oct, 1955","01 Mar, 1960",Nuclear Decommissioning Authority,"MAGNOX, LTD","29 Jun, 2004",United kingdom,CHAPELCROSS-4,Permanent shutdown
+GCR,AGR,611,"01 Dec, 1970","01 Apr, 1989",EDF Energy,EDF Energy,0,United kingdom,HEYSHAM A-1,Operational
+GCR,AGR,611,"01 Dec, 1970","01 Apr, 1989",EDF Energy,EDF Energy,0,United kingdom,HEYSHAM A-2,Operational
+GCR,AGR,615,"01 Aug, 1980","01 Apr, 1989",EDF Energy,EDF Energy,0,United kingdom,HEYSHAM B-1,Operational
+GCR,AGR,615,"01 Aug, 1980","01 Apr, 1989",EDF Energy,EDF Energy,0,United kingdom,HEYSHAM B-2,Operational
+GCR,AGR,645,"01 Aug, 1980","25 May, 1988",EDF Energy,EDF Energy,0,United kingdom,TORNESS-1,Operational
+GCR,AGR,645,"01 Aug, 1980","03 Feb, 1989",EDF Energy,EDF Energy,0,United kingdom,TORNESS-2,Operational
+PWR,SNUPPS,1188,"18 Jul, 1988","22 Sep, 1995",EDF Energy,EDF Energy,0,United kingdom,SIZEWELL B,Operational
+GCR,MAGNOX,138,"01 Jan, 1957","12 Jun, 1962",Nuclear Decommissioning Authority,"MAGNOX, LTD","31 Mar, 1989",United kingdom,BERKELEY-1,Permanent shutdown
+GCR,MAGNOX,138,"01 Jan, 1957","20 Oct, 1962",Nuclear Decommissioning Authority,"MAGNOX, LTD","26 Oct, 1988",United kingdom,BERKELEY-2,Permanent shutdown
+GCR,MAGNOX,150,"01 Jan, 1957","01 Jul, 1962",Nuclear Decommissioning Authority,"MAGNOX, LTD","31 Mar, 2002",United kingdom,BRADWELL-1,Permanent shutdown
+GCR,MAGNOX,150,"01 Jan, 1957","12 Nov, 1962",Nuclear Decommissioning Authority,"MAGNOX, LTD","30 Mar, 2002",United kingdom,BRADWELL-2,Permanent shutdown
+GCR,AGR,32,"01 Nov, 1958","01 Mar, 1963",UNITED KINGDOM ATOMIC ENERGY AUTHORITY,UNITED KINGDOM ATOMIC ENERGY AUTHORITY,"03 Apr, 1981",United kingdom,WINDSCALE AGR,Permanent shutdown
+GCR,MAGNOX,150,"01 Oct, 1957","05 Feb, 1964",Nuclear Decommissioning Authority,"MAGNOX, LTD","30 Mar, 1990",United kingdom,HUNTERSTON A-1,Permanent shutdown
+GCR,MAGNOX,150,"01 Oct, 1957","01 Jul, 1964",Nuclear Decommissioning Authority,"MAGNOX, LTD","31 Dec, 1989",United kingdom,HUNTERSTON A-2,Permanent shutdown
+GCR,MAGNOX,250,"01 Nov, 1957","30 Mar, 1965",Nuclear Decommissioning Authority,"MAGNOX, LTD","23 May, 2000",United kingdom,HINKLEY POINT A-1,Permanent shutdown
+GCR,MAGNOX,250,"01 Nov, 1957","05 May, 1965",Nuclear Decommissioning Authority,"MAGNOX, LTD","23 May, 2000",United kingdom,HINKLEY POINT A-2,Permanent shutdown
+GCR,MAGNOX,250,"01 Jul, 1959","24 Mar, 1965",Nuclear Decommissioning Authority,"MAGNOX, LTD","06 Feb, 1991",United kingdom,TRAWSFYNYDD-1,Permanent shutdown
+GCR,MAGNOX,250,"01 Jul, 1959","24 Mar, 1965",Nuclear Decommissioning Authority,"MAGNOX, LTD","04 Feb, 1991",United kingdom,TRAWSFYNYDD-2,Permanent shutdown
+GCR,MAGNOX,275,"01 Jul, 1960","28 Oct, 1965",Nuclear Decommissioning Authority,"MAGNOX, LTD","31 Dec, 2006",United kingdom,DUNGENESS A-1,Permanent shutdown
+GCR,MAGNOX,275,"01 Jul, 1960","30 Dec, 1965",Nuclear Decommissioning Authority,"MAGNOX, LTD","31 Dec, 2006",United kingdom,DUNGENESS A-2,Permanent shutdown
+PWR,VVER V-213,408,"01 Aug, 1974","10 Aug, 1983",HUNGARIAN POWER COMPANIES LTD.,"PAKS NUCLEAR POWER PLANT, LTD.",0,Hungary,PAKS-1,Operational
+PWR,VVER V-213,410,"01 Aug, 1974","14 Nov, 1984",HUNGARIAN POWER COMPANIES LTD.,"PAKS NUCLEAR POWER PLANT, LTD.",0,Hungary,PAKS-2,Operational
+PWR,VVER V-213,410,"01 Oct, 1979","01 Dec, 1986",HUNGARIAN POWER COMPANIES LTD.,"PAKS NUCLEAR POWER PLANT, LTD.",0,Hungary,PAKS-3,Operational
+PWR,VVER V-213,410,"01 Oct, 1979","01 Nov, 1987",HUNGARIAN POWER COMPANIES LTD.,"PAKS NUCLEAR POWER PLANT, LTD.",0,Hungary,PAKS-4,Operational
+BWR,BWR-1 (Mark 2),200,"01 Oct, 1964","28 Oct, 1969","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,TARAPUR-1,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Apr, 1985","01 Sep, 1995","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KAKRAPAR-2,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Feb, 1990","01 Jun, 2000","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,RAJASTHAN-3,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Oct, 1990","23 Dec, 2000","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,RAJASTHAN-4,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Sep, 1989","16 Nov, 2000","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KAIGA-1,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Dec, 1989","16 Mar, 2000","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KAIGA-2,Operational
+PHWR,Horizontal Pressure Tube type,202,"30 Mar, 2002","06 May, 2007","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KAIGA-3,Operational
+PHWR,Horizontal Pressure Tube type,202,"10 May, 2002","20 Jan, 2011","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KAIGA-4,Operational
+PHWR,Horizontal Pressure Tube type,202,"18 Sep, 2002","04 Feb, 2010","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,RAJASTHAN-5,Operational
+BWR,BWR-1 (Mark 2),200,"01 Oct, 1964","28 Oct, 1969","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,TARAPUR-2,Operational
+PHWR,Horizontal Pressure Tube type,202,"20 Jan, 2003","31 Mar, 2010","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,RAJASTHAN-6,Operational
+PHWR,Horizontal Pressure Tube type,630,"18 Jul, 2011",0,"NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,RAJASTHAN-7,Under Construction
+PHWR,Horizontal Pressure Tube type,630,"30 Sep, 2011",0,"NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,RAJASTHAN-8,Under Construction
+PHWR,Horizontal Pressure Tube Type,502,"12 May, 2000","18 Aug, 2006","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,TARAPUR-3,Operational
+PHWR,Horizontal Pressure Tube Type,502,"08 Mar, 2000","12 Sep, 2005","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,TARAPUR-4,Operational
+PHWR,Horizontal Pressure Tube type,207,"01 Aug, 1965","16 Dec, 1973","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,RAJASTHAN-1,Operational
+PHWR,Horizontal Pressure Tube type,207,"01 Apr, 1968","01 Apr, 1981","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,RAJASTHAN-2,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Jan, 1971","27 Jan, 1984","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,MADRAS-1,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Oct, 1972","21 Mar, 1986","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,MADRAS-2,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Dec, 1976","01 Jan, 1991","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,NARORA-1,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Nov, 1977","01 Jul, 1992","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,NARORA-2,Operational
+PHWR,Horizontal Pressure Tube type,202,"01 Dec, 1984","06 May, 1993","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KAKRAPAR-1,Operational
+PWR,VVER V-446,915,"01 May, 1975","23 Sep, 2013",Nuclear Power Production and Development Co. of Iran,Nuclear Power Production and Development Co. of Iran,0,Iran,BUSHEHR-1,Operational
+PWR,V-528 VVER-1000 AES-92 GIII+,974,"27 Sep, 2019",0,Nuclear Power Production and Development Co. of Iran,Nuclear Power Production and Development Co. of Iran,0,Iran,BUSHEHR-2,Under Construction
+GCR,MAGNOX,200,"01 Nov, 1958","01 Jan, 1964",Societa Gestione Impanti Nucleari S.p.a.,Societa Gestione Impanti Nucleari S.p.a.,"01 Dec, 1987",Italy,LATINA,Permanent shutdown
+BWR,BWR-1,150,"01 Nov, 1959","01 Jun, 1964",Societa Gestione Impanti Nucleari S.p.a.,Societa Gestione Impanti Nucleari S.p.a.,"01 Mar, 1982",Italy,GARIGLIANO,Permanent shutdown
+PWR,WH 4LP,247,"01 Jul, 1961","01 Jan, 1965",Societa Gestione Impanti Nucleari S.p.a.,Societa Gestione Impanti Nucleari S.p.a.,"01 Jul, 1990",Italy,ENRICO FERMI,Permanent shutdown
+BWR,BWR-4 (Mark 2),840,"01 Jan, 1970","01 Dec, 1981",Societa Gestione Impanti Nucleari S.p.a.,Societa Gestione Impanti Nucleari S.p.a.,"01 Jul, 1990",Italy,CAORSO,Permanent shutdown
+BWR,BWR-1,10,"01 Dec, 1960","15 Mar, 1965",JAPAN ATOMIC ENERGY AGENCY,JAPAN ATOMIC ENERGY AGENCY,"18 Mar, 1976",Japan,JPDR,Permanent shutdown
+BWR,BWR-4,760,"28 Dec, 1970","27 Mar, 1976","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","19 May, 2011",Japan,FUKUSHIMA-DAIICHI-3,Permanent shutdown
+BWR,BWR-4,516,"10 Jun, 1971","17 Mar, 1976","CHUBU ELECTRIC POWER CO., INC.","CHUBU ELECTRIC POWER CO., INC.","30 Jan, 2009",Japan,HAMAOKA-1,Permanent shutdown
+PWR,M (2-loop),529,"15 Sep, 1971","15 Oct, 1975","Kyushu Electric Power Co., Inc.","Kyushu Electric Power Co., Inc.","27 Apr, 2015",Japan,GENKAI-1,Permanent shutdown
+PWR,M (3-loop),780,"09 Mar, 1971","14 Nov, 1975",Kansai Electric Power Co.,Kansai Electric Power Co.,0,Japan,TAKAHAMA-2,Operational
+PWR,M (3-loop),780,"07 Aug, 1972","01 Dec, 1976",Kansai Electric Power Co.,Kansai Electric Power Co.,0,Japan,MIHAMA-3,Operational
+PWR,WH 4LP,1120,"26 Oct, 1972","27 Mar, 1979",Kansai Electric Power Co.,Kansai Electric Power Co.,"01 Mar, 2018",Japan,OHI-1,Permanent shutdown
+BWR,BWR-4,760,"12 Feb, 1973","12 Oct, 1978","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","19 May, 2011",Japan,FUKUSHIMA-DAIICHI-4,Permanent shutdown
+BWR,BWR-4,760,"22 May, 1972","18 Apr, 1978","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","17 Dec, 2013",Japan,FUKUSHIMA-DAIICHI-5,Permanent shutdown
+BWR,BWR-5,1067,"26 Oct, 1973","24 Oct, 1979","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","17 Dec, 2013",Japan,FUKUSHIMA-DAIICHI-6,Permanent shutdown
+PWR,WH 4LP,1120,"08 Dec, 1972","05 Dec, 1979",Kansai Electric Power Co.,Kansai Electric Power Co.,"01 Mar, 2018",Japan,OHI-2,Permanent shutdown
+GCR,MAGNOX,159,"01 Mar, 1961","25 Jul, 1966",JAPAN ATOMIC POWER CO.,JAPAN ATOMIC POWER CO.,"31 Mar, 1998",Japan,TOKAI-1,Permanent shutdown
+HWLWR,ATR,148,"10 May, 1972","20 Mar, 1979",JAPAN ATOMIC ENERGY AGENCY,JAPAN ATOMIC ENERGY AGENCY,"29 Mar, 2003",Japan,FUGEN ATR,Permanent shutdown
+BWR,BWR-5,1056,"03 Oct, 1973","28 Nov, 1978",JAPAN ATOMIC POWER CO.,JAPAN ATOMIC POWER CO.,0,Japan,TOKAI-2,Operational
+BWR,BWR-4,498,"08 Jul, 1980","01 Jun, 1984","Tohoku Electric Power Co., Inc","Tohoku Electric Power Co., Inc","21 Dec, 2018",Japan,ONAGAWA-1,Permanent shutdown
+PWR,M (2-loop),538,"01 Sep, 1973","30 Sep, 1977","SHIKOKU ELECTRIC POWER CO., INC","SHIKOKU ELECTRIC POWER CO., INC","10 May, 2016",Japan,IKATA-1,Permanent shutdown
+BWR,BWR-4,814,"14 Jun, 1974","29 Nov, 1978","CHUBU ELECTRIC POWER CO., INC.","CHUBU ELECTRIC POWER CO., INC.","30 Jan, 2009",Japan,HAMAOKA-2,Permanent shutdown
+BWR,BWR-5,1067,"16 Mar, 1976","20 Apr, 1982","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","30 Sep, 2019",Japan,FUKUSHIMA-DAINI-1,Permanent shutdown
+BWR,BWR-5,1067,"25 May, 1979","03 Feb, 1984","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","30 Sep, 2019",Japan,FUKUSHIMA-DAINI-2,Permanent shutdown
+PWR,M (2-loop),529,"01 Feb, 1977","30 Mar, 1981","Kyushu Electric Power Co., Inc.","Kyushu Electric Power Co., Inc.","09 Apr, 2019",Japan,GENKAI-2,Permanent shutdown
+PWR,M (3-loop),846,"15 Dec, 1979","04 Jul, 1984","Kyushu Electric Power Co., Inc.","Kyushu Electric Power Co., Inc.",0,Japan,SENDAI-1,Operational
+PWR,M (3-loop),830,"12 Dec, 1980","17 Jan, 1985",Kansai Electric Power Co.,Kansai Electric Power Co.,0,Japan,TAKAHAMA-3,Operational
+BWR,BWR-2,341,"24 Nov, 1966","14 Mar, 1970",JAPAN ATOMIC POWER CO.,JAPAN ATOMIC POWER CO.,"27 Apr, 2015",Japan,TSURUGA-1,Permanent shutdown
+PWR,M (3-loop),830,"19 Mar, 1981","05 Jun, 1985",Kansai Electric Power Co.,Kansai Electric Power Co.,0,Japan,TAKAHAMA-4,Operational
+FBR,-,246,"10 May, 1986",0,JAPAN ATOMIC ENERGY AGENCY,JAPAN ATOMIC ENERGY AGENCY,"05 Dec, 2017",Japan,MONJU,Permanent shutdown
+PWR,M (2-loop),538,"01 Aug, 1978","19 Mar, 1982","SHIKOKU ELECTRIC POWER CO., INC","SHIKOKU ELECTRIC POWER CO., INC","23 May, 2018",Japan,IKATA-2,Permanent shutdown
+BWR,BWR-5,1067,"05 Jun, 1980","18 Sep, 1985","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.",0,Japan,KASHIWAZAKI KARIWA-1,Operational
+PWR,M (4-loop),1115,"06 Nov, 1982","17 Feb, 1987",JAPAN ATOMIC POWER CO.,JAPAN ATOMIC POWER CO.,0,Japan,TSURUGA-2,Operational
+BWR,BWR-5,1067,"23 Mar, 1981","21 Jun, 1985","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","30 Sep, 2019",Japan,FUKUSHIMA-DAINI-3,Permanent shutdown
+BWR,BWR-5,1056,"18 Apr, 1983","28 Aug, 1987","CHUBU ELECTRIC POWER CO., INC.","CHUBU ELECTRIC POWER CO., INC.",0,Japan,HAMAOKA-3,Operational
+PWR,M (3-loop),846,"12 Oct, 1981","28 Nov, 1985","Kyushu Electric Power Co., Inc.","Kyushu Electric Power Co., Inc.",0,Japan,SENDAI-2,Operational
+BWR,BWR-5,1067,"28 May, 1981","25 Aug, 1987","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","30 Sep, 2019",Japan,FUKUSHIMA-DAINI-4,Permanent shutdown
+BWR,BWR-5,1067,"18 Nov, 1985","28 Sep, 1990","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.",0,Japan,KASHIWAZAKI KARIWA-2,Operational
+PWR,WH 2LP,320,"01 Feb, 1967","28 Nov, 1970",Kansai Electric Power Co.,Kansai Electric Power Co.,"27 Apr, 2015",Japan,MIHAMA-1,Permanent shutdown
+BWR,BWR-5,1067,"20 Jun, 1985","10 Apr, 1990","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.",0,Japan,KASHIWAZAKI KARIWA-5,Operational
+BWR,BWR-5,789,"02 Feb, 1985","10 Feb, 1989","THE CHUGOKU ELECTRIC POWER CO., INC.","THE CHUGOKU ELECTRIC POWER CO., INC.",0,Japan,SHIMANE-2,Operational
+PWR,M (2-loop),550,"18 Apr, 1985","22 Jun, 1989","HOKKAIDO ELECTRIC POWER CO., INC.","HOKKAIDO ELECTRIC POWER CO., INC.",0,Japan,TOMARI-1,Operational
+PWR,M (2-loop),550,"13 Jun, 1985","12 Apr, 1991","HOKKAIDO ELECTRIC POWER CO., INC.","HOKKAIDO ELECTRIC POWER CO., INC.",0,Japan,TOMARI-2,Operational
+PWR,M (4-loop),1127,"01 Jun, 1988","18 Mar, 1994","Kyushu Electric Power Co., Inc.","Kyushu Electric Power Co., Inc.",0,Japan,GENKAI-3,Operational
+PWR,M (4-loop),1127,"15 Jul, 1992","25 Jul, 1997","Kyushu Electric Power Co., Inc.","Kyushu Electric Power Co., Inc.",0,Japan,GENKAI-4,Operational
+PWR,M (3-loop),846,"01 Oct, 1990","15 Dec, 1994","SHIKOKU ELECTRIC POWER CO., INC","SHIKOKU ELECTRIC POWER CO., INC",0,Japan,IKATA-3,Operational
+BWR,BWR-5,505,"01 Jul, 1989","30 Jul, 1993",HOKURIKU ELECTRIC POWER CO.,HOKURIKU ELECTRIC POWER CO.,0,Japan,SHIKA-1,Operational
+BWR,BWR-5,1092,"13 Oct, 1989","03 Sep, 1993","CHUBU ELECTRIC POWER CO., INC.","CHUBU ELECTRIC POWER CO., INC.",0,Japan,HAMAOKA-4,Operational
+BWR,BWR-3,439,"25 Jul, 1967","26 Mar, 1971","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","19 May, 2011",Japan,FUKUSHIMA-DAIICHI-1,Permanent shutdown
+PWR,M (4-loop),1127,"03 Oct, 1987","18 Dec, 1991",Kansai Electric Power Co.,Kansai Electric Power Co.,0,Japan,OHI-3,Operational
+PWR,M (4-loop),1127,"13 Jun, 1988","02 Feb, 1993",Kansai Electric Power Co.,Kansai Electric Power Co.,0,Japan,OHI-4,Operational
+BWR,BWR-5,1067,"07 Mar, 1989","11 Aug, 1993","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.",0,Japan,KASHIWAZAKI KARIWA-3,Operational
+BWR,BWR-5,1067,"05 Mar, 1990","11 Aug, 1994","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.",0,Japan,KASHIWAZAKI KARIWA-4,Operational
+BWR,BWR-5,796,"12 Apr, 1991","28 Jul, 1995","Tohoku Electric Power Co., Inc","Tohoku Electric Power Co., Inc",0,Japan,ONAGAWA-2,Operational
+BWR,ABWR,1315,"03 Nov, 1992","07 Nov, 1996","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.",0,Japan,KASHIWAZAKI KARIWA-6,Operational
+BWR,ABWR,1315,"01 Jul, 1993","02 Jul, 1997","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.",0,Japan,KASHIWAZAKI KARIWA-7,Operational
+BWR,BWR-5,796,"23 Jan, 1998","30 Jan, 2002","Tohoku Electric Power Co., Inc","Tohoku Electric Power Co., Inc",0,Japan,ONAGAWA-3,Operational
+PWR,M (2-loop),470,"29 May, 1968","25 Jul, 1972",Kansai Electric Power Co.,Kansai Electric Power Co.,"27 Apr, 2015",Japan,MIHAMA-2,Permanent shutdown
+BWR,BWR-3,439,"02 Jul, 1970","29 Mar, 1974","THE CHUGOKU ELECTRIC POWER CO., INC.","THE CHUGOKU ELECTRIC POWER CO., INC.","30 Apr, 2015",Japan,SHIMANE-1,Permanent shutdown
+PWR,M (3-loop),780,"25 Apr, 1970","14 Nov, 1974",Kansai Electric Power Co.,Kansai Electric Power Co.,0,Japan,TAKAHAMA-1,Operational
+BWR,BWR-4,760,"09 Jun, 1969","18 Jul, 1974","Tokyo Electric Power Company Holdings, Inc.","Tokyo Electric Power Company Holdings, Inc.","19 May, 2011",Japan,FUKUSHIMA-DAIICHI-2,Permanent shutdown
+PWR,WH 60,558,"01 Aug, 1972","29 Apr, 1978",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,"18 Jun, 2017","Korea, republic of",KORI-1,Permanent shutdown
+PWR,France CPI,967,"05 Jul, 1983","30 Sep, 1989",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANUL-2,Operational
+PWR,OPR-1000,986,"23 Dec, 1989","31 Mar, 1995",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANBIT-3,Operational
+PWR,OPR-1000,970,"26 May, 1990","01 Jan, 1996",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANBIT-4,Operational
+PWR,OPR-1000,997,"21 Jul, 1993","11 Aug, 1998",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANUL-3,Operational
+PWR,OPR-1000,999,"01 Nov, 1993","31 Dec, 1999",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANUL-4,Operational
+PHWR,CANDU 6,627,"17 Mar, 1994","01 Jul, 1998",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",WOLSONG-3,Operational
+PHWR,CANDU 6,600,"22 Jul, 1994","01 Oct, 1999",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",WOLSONG-4,Operational
+PWR,OPR-1000,992,"29 Jun, 1997","21 May, 2002",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANBIT-5,Operational
+PWR,OPR-1000,993,"20 Nov, 1997","24 Dec, 2002",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANBIT-6,Operational
+PWR,OPR-1000,998,"01 Oct, 1999","29 Jul, 2004",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANUL-5,Operational
+PWR,WH F,640,"23 Dec, 1977","25 Jul, 1983",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",KORI-2,Operational
+PWR,OPR-1000,997,"29 Sep, 2000","22 Apr, 2005",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANUL-6,Operational
+PHWR,CANDU 6,629,"30 Oct, 1977","22 Apr, 1983",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,"24 Dec, 2019","Korea, republic of",WOLSONG-1,Permanent shutdown
+PHWR,CANDU 6,596,"25 Sep, 1992","01 Jul, 1997",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",WOLSONG-2,Operational
+PWR,WH F,1011,"01 Oct, 1979","30 Sep, 1985",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",KORI-3,Operational
+PWR,WH F,1012,"01 Apr, 1980","29 Apr, 1986",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",KORI-4,Operational
+PWR,WH F,995,"04 Jun, 1981","25 Aug, 1986",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANBIT-1,Operational
+PWR,WH F,988,"01 Dec, 1981","10 Jun, 1987",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANBIT-2,Operational
+PWR,France CPI,966,"26 Jan, 1983","10 Sep, 1988",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",HANUL-1,Operational
+FBR,BN-350,52,"01 Oct, 1964","16 Jul, 1973",Ministry of Energy of the Republic of Kazakhstan,Limited liability partnership «Mangistau atomic energy complex-Kazatomprom»,"22 Apr, 1999",Kazakhstan,AKTAU,Permanent shutdown
+LWGR,RBMK-1500,1185,"01 May, 1977","01 May, 1985",The Republic of Lithuania,IGNALINA NUCLEAR POWER PLANT,"31 Dec, 2004",Lithuania,IGNALINA-1,Permanent shutdown
+LWGR,RBMK-1500,1185,"01 Jan, 1978","01 Dec, 1987",The Republic of Lithuania,IGNALINA NUCLEAR POWER PLANT,"31 Dec, 2009",Lithuania,IGNALINA-2,Permanent shutdown
+BWR,BWR-5,777,"01 Oct, 1976","29 Jul, 1990",COMISION FEDERAL DE ELECTRICIDAD,COMISION FEDERAL DE ELECTRICIDAD,0,Mexico,LAGUNA VERDE-1,Operational
+BWR,BWR-5,780,"01 Jun, 1977","10 Apr, 1995",COMISION FEDERAL DE ELECTRICIDAD,COMISION FEDERAL DE ELECTRICIDAD,0,Mexico,LAGUNA VERDE-2,Operational
+BWR,GE design,54,"01 May, 1965","26 Mar, 1969",BV GEMEENSCHAPPELIJKE KERNENERGIECENTRALE NEDERLAND (BV GKN),BV GEMEENSCHAPPELIJKE KERNENERGIECENTRALE NEDERLAND (BV GKN),"26 Mar, 1997",Netherlands,DODEWAARD,Permanent shutdown
+PWR,KWU 2LP,495,"01 Jul, 1969","26 Oct, 1973",N.V. ELEKTRICITEITS-PRODUKTIEMAATSCHAPPIJ ZUID-NEDERLAND,N.V. ELEKTRICITEITS-PRODUKTIEMAATSCHAPPIJ ZUID-NEDERLAND,0,Netherlands,BORSSELE,Operational
+PHWR,CANDU-137 MW,125,"01 Aug, 1966","07 Dec, 1972",PAKISTAN ATOMIC ENERGY COMMISSION,PAKISTAN ATOMIC ENERGY COMMISSION,0,Pakistan,KANUPP-1,Operational
+PWR,CNP-300,300,"01 Aug, 1993","15 Sep, 2000",PAKISTAN ATOMIC ENERGY COMMISSION,PAKISTAN ATOMIC ENERGY COMMISSION,0,Pakistan,CHASNUPP-1,Operational
+PWR,CNP-300,300,"28 Dec, 2005","18 May, 2011",PAKISTAN ATOMIC ENERGY COMMISSION,PAKISTAN ATOMIC ENERGY COMMISSION,0,Pakistan,CHASNUPP-2,Operational
+PHWR,CANDU 6,650,"31 Mar, 1983","02 Dec, 1996","Ministerul Economiei, Comertului si mediului de Afaceri","SOCIETATEA NATIONALA NUCLEARELECTRICA, S.A.",0,Romania,CERNAVODA-1,Operational
+PHWR,CANDU 6,650,"01 Jul, 1983","01 Nov, 2007","Ministerul Economiei, Comertului si mediului de Afaceri","SOCIETATEA NATIONALA NUCLEARELECTRICA, S.A.",0,Romania,CERNAVODA-2,Operational
+LWGR,AM-1,5,"01 Jan, 1951","01 Dec, 1954",MINISTRY OF MEDIUM MACHINE BUILDING OF THE USSR (MINSREDMASH),MINISTRY OF MEDIUM MACHINE BUILDING OF THE USSR (MINSREDMASH),"29 Apr, 2002",Russia,APS-1 OBNINSK,Permanent shutdown
+PWR,VVER V-179,385,"01 Jul, 1967","24 Mar, 1973",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,NOVOVORONEZH-4,Operational
+FBR,BN-800,820,"18 Jul, 2006","31 Oct, 2016",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BELOYARSK-4,Operational
+PWR,VVER V-230,411,"01 May, 1970","28 Dec, 1973",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KOLA-1,Operational
+PWR,VVER V-230,411,"01 May, 1970","21 Feb, 1975",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KOLA-2,Operational
+LWGR,EGP-6,11,"01 Jan, 1970","01 Apr, 1974",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',"14 Jan, 2019",Russia,BILIBINO-1,Permanent shutdown
+LWGR,EGP-6,11,"01 Jan, 1970","01 Feb, 1975",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BILIBINO-2,Operational
+LWGR,EGP-6,11,"01 Jan, 1970","01 Feb, 1976",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BILIBINO-3,Operational
+LWGR,EGP-6,11,"01 Jan, 1970","01 Jan, 1977",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BILIBINO-4,Operational
+LWGR,RBMK-1000,925,"01 Mar, 1970","01 Nov, 1974",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',"22 Dec, 2018",Russia,LENINGRAD-1,Permanent shutdown
+LWGR,RBMK-1000,925,"01 Jun, 1970","11 Feb, 1976",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',"10 Nov, 2020",Russia,LENINGRAD-2,Permanent shutdown
+LWGR,RBMK-1000,925,"01 Jun, 1972","12 Oct, 1977",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KURSK-1,Operational
+PWR,VVER V-187,950,"01 Mar, 1974","20 Feb, 1981",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,NOVOVORONEZH-5,Operational
+FBR,BN-600,560,"01 Jan, 1969","01 Nov, 1981",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BELOYARSK-3,Operational
+LWGR,RBMK-1000,925,"01 Jan, 1973","17 Aug, 1979",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KURSK-2,Operational
+LWGR,RBMK-1000,925,"01 Oct, 1975","30 Sep, 1983",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,SMOLENSK-1,Operational
+LWGR,RBMK-1000,925,"01 Jun, 1976","02 Jul, 1985",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,SMOLENSK-2,Operational
+LWGR,AMB-100,102,"01 Jun, 1958","26 Apr, 1964",MINISTRY OF MEDIUM MACHINE BUILDING OF THE USSR (MINSREDMASH),Joint Stock Company 'Concern Rosenergoatom',"01 Jan, 1983",Russia,BELOYARSK-1,Permanent shutdown
+PWR,VVER V-338,950,"01 Feb, 1977","12 Jun, 1985",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KALININ-1,Operational
+PWR,VVER V-338,950,"01 Feb, 1982","03 Mar, 1987",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KALININ-2,Operational
+PWR,VVER V-213,411,"01 Apr, 1977","03 Dec, 1982",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KOLA-3,Operational
+PWR,VVER V-213,411,"01 Aug, 1976","06 Dec, 1984",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KOLA-4,Operational
+LWGR,RBMK-1000,925,"01 Dec, 1973","29 Jun, 1980",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,LENINGRAD-3,Operational
+LWGR,RBMK-1000,925,"01 Feb, 1975","29 Aug, 1981",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,LENINGRAD-4,Operational
+PWR,VVER V-320,950,"01 Oct, 1985","08 Nov, 2005",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KALININ-3,Operational
+PWR,VVER V-320,950,"01 Aug, 1986","25 Dec, 2012",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KALININ-4,Operational
+LWGR,RBMK-1000,925,"01 Apr, 1978","30 Mar, 1984",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KURSK-3,Operational
+LWGR,RBMK-1000,925,"01 May, 1981","05 Feb, 1986",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KURSK-4,Operational
+PWR,VVER V-210,197,"01 Jul, 1957","31 Dec, 1964",MINISTRY OF MEDIUM MACHINE BUILDING OF THE USSR (MINSREDMASH),Joint Stock Company 'Concern Rosenergoatom',"16 Feb, 1988",Russia,NOVOVORONEZH-1,Permanent shutdown
+PWR,VVER V-320,950,"01 Sep, 1981","25 Dec, 2001",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,ROSTOV-1,Operational
+LWGR,AMB-200,146,"01 Jan, 1962","01 Dec, 1969",MINISTRY OF MEDIUM MACHINE BUILDING OF THE USSR (MINSREDMASH),Joint Stock Company 'Concern Rosenergoatom',"01 Jan, 1990",Russia,BELOYARSK-2,Permanent shutdown
+PWR,VVER V-320,950,"01 May, 1983","10 Dec, 2010",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,ROSTOV-2,Operational
+PWR,VVER V-320,950,"15 Sep, 2009","17 Sep, 2015",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,ROSTOV-3,Operational
+PWR,VVER V-320,950,"16 Jun, 2010","28 Sep, 2018",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,ROSTOV-4,Operational
+LWGR,RBMK-1000,925,"01 May, 1984","12 Oct, 1990",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,SMOLENSK-3,Operational
+PWR,VVER V-365,336,"01 Jun, 1964","14 Apr, 1970",MINISTRY OF MEDIUM MACHINE BUILDING OF THE USSR (MINSREDMASH),Joint Stock Company 'Concern Rosenergoatom',"29 Aug, 1990",Russia,NOVOVORONEZH-2,Permanent shutdown
+PWR,VVER V-179,385,"01 Jul, 1967","29 Jun, 1972",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',"25 Dec, 2016",Russia,NOVOVORONEZH-3,Permanent shutdown
+PWR,VVER V-320,950,"01 Dec, 1980","23 May, 1986",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BALAKOVO-1,Operational
+PWR,VVER V-320,950,"01 Aug, 1981","18 Jan, 1988",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BALAKOVO-2,Operational
+PWR,VVER V-320,950,"01 Nov, 1982","08 Apr, 1989",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BALAKOVO-3,Operational
+PWR,VVER V-320,950,"01 Apr, 1984","22 Dec, 1993",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BALAKOVO-4,Operational
+PHWR,0,9,"01 Dec, 1957","01 May, 1964",Vattenfall AB,AB SVAFO,"02 Jun, 1974",Sweden,AGESTA,Permanent shutdown
+PWR,WH 3LP,1130,"01 Nov, 1973","21 Nov, 1983",Ringhals AB,Ringhals AB,0,Sweden,RINGHALS-4,Operational
+BWR,"AA-III, BWR-2500",900,"01 Jan, 1975","07 Jul, 1981",FORSMARK KRAFTGRUPP AB,FORSMARK KRAFTGRUPP AB,0,Sweden,FORSMARK-2,Operational
+BWR,"AA-IV, BWR-3000",1050,"01 May, 1980","15 Aug, 1985",OKG AKTIEBOLAG,OKG AKTIEBOLAG,0,Sweden,OSKARSHAMN-3,Operational
+BWR,"AA-IV, BWR-3000",1050,"01 Jan, 1979","18 Aug, 1985",FORSMARK KRAFTGRUPP AB,FORSMARK KRAFTGRUPP AB,0,Sweden,FORSMARK-3,Operational
+BWR,AA-I,440,"01 Aug, 1966","06 Feb, 1972",OKG AKTIEBOLAG,OKG AKTIEBOLAG,"19 Jun, 2017",Sweden,OSKARSHAMN-1,Permanent shutdown
+BWR,AA-II,580,"01 Sep, 1969","01 Jan, 1975",OKG AKTIEBOLAG,OKG AKTIEBOLAG,"22 Dec, 2016",Sweden,OSKARSHAMN-2,Permanent shutdown
+BWR,AA-I,881,"01 Feb, 1969","01 Jan, 1976",Ringhals AB,Ringhals AB,"31 Dec, 2020",Sweden,RINGHALS-1,Permanent shutdown
+PWR,WH 3LP,820,"01 Oct, 1970","01 May, 1975",Ringhals AB,Ringhals AB,"31 Dec, 2019",Sweden,RINGHALS-2,Permanent shutdown
+BWR,AA-II,570,"01 Feb, 1971","01 Jul, 1975",Sydkraft Nuclear Power AB,Barsebäck Kraft AB,"30 Nov, 1999",Sweden,BARSEBACK-1,Permanent shutdown
+PWR,WH 3LP,1072,"01 Sep, 1972","09 Sep, 1981",Ringhals AB,Ringhals AB,0,Sweden,RINGHALS-3,Operational
+BWR,AA-II,570,"01 Jan, 1973","01 Jul, 1977",Sydkraft Nuclear Power AB,Barsebäck Kraft AB,"31 May, 2005",Sweden,BARSEBACK-2,Permanent shutdown
+BWR,"AA-III, BWR-2500",900,"01 Jun, 1973","10 Dec, 1980",FORSMARK KRAFTGRUPP AB,FORSMARK KRAFTGRUPP AB,0,Sweden,FORSMARK-1,Operational
+PWR,WH 2LP,632,"30 Mar, 1975","01 Jan, 1983","GEN Energija, d.o.o",Nuklearna elektrarna Krško,0,Slovenia,KRSKO,Operational
+HWGCR,KS 150,110,"01 Aug, 1958","25 Dec, 1972","JADROVA A VYRADOVACIA SPOLOCNOST /NUCLEAR AND DECOMMISSIONING COMPANY, plc./","JADROVA A VYRADOVACIA SPOLOCNOST /NUCLEAR AND DECOMMISSIONING COMPANY, plc./","22 Feb, 1977",Slovakia,BOHUNICE A1,Permanent shutdown
+PWR,VVER V-213,440,"27 Jan, 1987",0,"SLOVENSKÉ ELEKTRÁRNE , AS.","SLOVENSKÉ ELEKTRÁRNE , AS.",0,Slovakia,MOCHOVCE-3,Under Construction
+PWR,VVER V-213,440,"27 Jan, 1987",0,"SLOVENSKÉ ELEKTRÁRNE , AS.","SLOVENSKÉ ELEKTRÁRNE , AS.",0,Slovakia,MOCHOVCE-4,Under Construction
+PWR,VVER V-213,466,"01 Dec, 1976","14 Feb, 1985","SLOVENSKÉ ELEKTRÁRNE , AS.","SLOVENSKÉ ELEKTRÁRNE , AS.",0,Slovakia,BOHUNICE-3,Operational
+PWR,VVER V-213,466,"01 Dec, 1976","18 Dec, 1985","SLOVENSKÉ ELEKTRÁRNE , AS.","SLOVENSKÉ ELEKTRÁRNE , AS.",0,Slovakia,BOHUNICE-4,Operational
+PWR,VVER V-230,408,"24 Apr, 1972","01 Apr, 1980","JADROVA A VYRADOVACIA SPOLOCNOST /NUCLEAR AND DECOMMISSIONING COMPANY, plc./","JADROVA A VYRADOVACIA SPOLOCNOST /NUCLEAR AND DECOMMISSIONING COMPANY, plc./","31 Dec, 2006",Slovakia,BOHUNICE-1,Permanent shutdown
+PWR,VVER V-230,408,"24 Apr, 1972","01 Jan, 1981","JADROVA A VYRADOVACIA SPOLOCNOST /NUCLEAR AND DECOMMISSIONING COMPANY, plc./","JADROVA A VYRADOVACIA SPOLOCNOST /NUCLEAR AND DECOMMISSIONING COMPANY, plc./","31 Dec, 2008",Slovakia,BOHUNICE-2,Permanent shutdown
+PWR,VVER V-213,408,"13 Oct, 1983","29 Oct, 1998","SLOVENSKÉ ELEKTRÁRNE , AS.","SLOVENSKÉ ELEKTRÁRNE , AS.",0,Slovakia,MOCHOVCE-1,Operational
+PWR,VVER V-213,408,"13 Oct, 1983","11 Apr, 2000","SLOVENSKÉ ELEKTRÁRNE , AS.","SLOVENSKÉ ELEKTRÁRNE , AS.",0,Slovakia,MOCHOVCE-2,Operational
+PWR,VVER V-509,1114,"03 Apr, 2018",0,Akkuyu Nuclear Joint Stock Company,Akkuyu Nuclear Joint Stock Company,0,Turkey,AKKUYU-1,Under Construction
+BWR,BWR-4 (Mark 1),604,"02 Jun, 1972","10 Dec, 1978",Taiwan Power Co.,Taiwan Power Co.,"06 Dec, 2018",Taiwan,CHINSHAN-1,Permanent shutdown
+BWR,BWR-4 (Mark 1),604,"07 Dec, 1973","15 Jul, 1979",Taiwan Power Co.,Taiwan Power Co.,"16 Jul, 2019",Taiwan,CHINSHAN-2,Permanent shutdown
+BWR,BWR-6,948,"19 Nov, 1975","28 Dec, 1981",Taiwan Power Co.,Taiwan Power Co.,"02 Jul, 2021",Taiwan,KUOSHENG-1,Permanent shutdown
+BWR,BWR-6,985,"15 Mar, 1976","16 Mar, 1983",Taiwan Power Co.,Taiwan Power Co.,0,Taiwan,KUOSHENG-2,Operational
+PWR,WH 3LP (WE 312),936,"21 Aug, 1978","27 Jul, 1984",Taiwan Power Co.,Taiwan Power Co.,0,Taiwan,MAANSHAN-1,Operational
+PWR,WH 3LP (WE 312),938,"21 Feb, 1979","18 May, 1985",Taiwan Power Co.,Taiwan Power Co.,0,Taiwan,MAANSHAN-2,Operational
+PWR,VVER V-320,950,"01 Nov, 1985","27 Oct, 1989",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ZAPOROZHYE-5,Operational
+PWR,VVER V-320,950,"01 Jun, 1986","17 Sep, 1996",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ZAPOROZHYE-6,Operational
+LWGR,RBMK,925,"01 Mar, 1970","27 May, 1978",SE “NNEGC “ENERGOATOM”,MINTOPENERGO OF UKRAINE - MINISTRY OF FUEL AND ENERGY OF UKRAINE,"30 Nov, 1996",Ukraine,CHERNOBYL-1,Permanent shutdown
+LWGR,RBMK,925,"01 Feb, 1973","28 May, 1979",SE “NNEGC “ENERGOATOM”,MINTOPENERGO OF UKRAINE - MINISTRY OF FUEL AND ENERGY OF UKRAINE,"11 Oct, 1991",Ukraine,CHERNOBYL-2,Permanent shutdown
+PWR,VVER V-213,361,"01 Aug, 1973","22 Sep, 1981",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ROVNO-1,Operational
+PWR,VVER V-213,384,"01 Oct, 1973","29 Jul, 1982",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ROVNO-2,Operational
+PWR,VVER V-320,950,"01 Feb, 1980","16 May, 1987",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ROVNO-3,Operational
+PWR,VVER V-320,950,"01 Nov, 1981","13 Aug, 1988",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,KHMELNITSKI-1,Operational
+PWR,VVER V-320,950,"01 Feb, 1985","15 Dec, 2005",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,KHMELNITSKI-2,Operational
+LWGR,RBMK,925,"01 Mar, 1976","08 Jun, 1982",SE “NNEGC “ENERGOATOM”,MINTOPENERGO OF UKRAINE - MINISTRY OF FUEL AND ENERGY OF UKRAINE,"15 Dec, 2000",Ukraine,CHERNOBYL-3,Permanent shutdown
+LWGR,RBMK,925,"01 Apr, 1979","26 Mar, 1984",SE “NNEGC “ENERGOATOM”,MINTOPENERGO OF UKRAINE - MINISTRY OF FUEL AND ENERGY OF UKRAINE,"26 Apr, 1986",Ukraine,CHERNOBYL-4,Permanent shutdown
+PWR,VVER V-302,950,"01 Aug, 1976","02 Dec, 1983",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,SOUTH UKRAINE-1,Operational
+PWR,VVER V-338,950,"01 Jul, 1981","06 Apr, 1985",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,SOUTH UKRAINE-2,Operational
+PWR,VVER V-320,950,"01 Nov, 1984","29 Dec, 1989",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,SOUTH UKRAINE-3,Operational
+PWR,VVER,1035,"01 Mar, 1986",0,SE “NNEGC “ENERGOATOM”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,KHMELNITSKI-3,Under Construction
+PWR,VVER,1035,"01 Feb, 1987",0,SE “NNEGC “ENERGOATOM”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,KHMELNITSKI-4,Under Construction
+PWR,VVER V-320,950,"01 Apr, 1980","25 Dec, 1985",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ZAPOROZHYE-1,Operational
+PWR,VVER V-320,950,"01 Jan, 1981","15 Feb, 1986",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ZAPOROZHYE-2,Operational
+PWR,VVER V-320,950,"01 Aug, 1986","06 Apr, 2006",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ROVNO-4,Operational
+PWR,VVER V-320,950,"01 Apr, 1982","05 Mar, 1987",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ZAPOROZHYE-3,Operational
+PWR,VVER V-320,950,"01 Apr, 1983","14 Apr, 1988",State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,State Enterprise “National Nuclear Energy Generating Company ‘Energoatom”,0,Ukraine,ZAPOROZHYE-4,Operational
+BWR,-,22,"01 Jan, 1959","01 Jul, 1964",US Department of Energy,RURAL COOPERATIVE POWER ASSOC.,"01 Feb, 1968",United states of america,ELK RIVER,Permanent shutdown
+BWR,0,192,"01 May, 1956","04 Jul, 1960",0,"Exelon Generation Co., LLC","31 Oct, 1978",United states of america,DRESDEN-1,Permanent shutdown
+BWR,Prototype,59,"01 Jan, 1959","01 Aug, 1966",Xcel Energy,NUCLEAR MANAGEMENT CO.,"01 Oct, 1967",United states of america,PATHFINDER,Permanent shutdown
+BWR,Natural cir.,65,"01 Nov, 1960","01 Aug, 1963",Pacific Gas and Electric Company,Pacific Gas and Electric Company,"02 Jul, 1976",United states of america,HUMBOLDT BAY,Permanent shutdown
+PHWR,Prototype,17,"01 Jan, 1960","18 Dec, 1963",CAROLINAS-VIRGINIA NUCLEAR POWER ASSOC.,CAROLINAS-VIRGINIA NUCLEAR POWER ASSOC.,"10 Jan, 1967",United states of america,CVTR,Permanent shutdown
+BWR,-,72,"01 May, 1960","29 Mar, 1963",CONSUMERS POWER CO.,CONSUMERS POWER CO.,"29 Aug, 1997",United states of america,BIG ROCK POINT,Permanent shutdown
+FBR,Liquid Metal FBR,60,"08 Aug, 1956","07 Aug, 1966","Power Reactor Development Company (PRDC), consortium of 34 public utilities",DETROIT EDISON CO.,"29 Nov, 1972",United states of america,FERMI-1,Permanent shutdown
+HTGR,0,40,"01 Feb, 1962","01 Jun, 1967","Exelon Generation Co., LLC","Exelon Generation Co., LLC","01 Nov, 1974",United states of america,PEACH BOTTOM-1,Permanent shutdown
+PWR,0,436,"01 May, 1964","01 Jan, 1968",SOUTHERN CALIFORNIA EDISON Co.,SOUTHERN CALIFORNIA EDISON Co.,"30 Nov, 1992",United states of america,SAN ONOFRE-1,Permanent shutdown
+PWR,-,582,"01 May, 1964","01 Jan, 1968",CONNECTICUT YANKEE ATOMIC POWER CO.,CONNECTICUT YANKEE ATOMIC POWER CO.,"05 Dec, 1996",United states of america,HADDAM NECK,Permanent shutdown
+BWR,BWR-2 (Mark 1),650,"15 Dec, 1964","01 Dec, 1969",Exelon Corporation,"Exelon Generation Co., LLC","17 Sep, 2018",United states of america,OYSTER CREEK,Permanent shutdown
+BWR,BWR-2 (Mark 1),620,"12 Apr, 1965","01 Dec, 1969","Exelon Nuclear, Électricité de France","Exelon Generation Co., LLC",0,United states of america,NINE MILE POINT-1,Operational
+BWR,BWR-3 (Mark 1),794,"10 Jan, 1966","09 Jun, 1970",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,DRESDEN-2,Operational
+PWR,WH 2LP (DRYAMB),470,"25 Apr, 1966","01 Jul, 1970",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,GINNA,Operational
+BWR,0,660,"01 May, 1966","01 Mar, 1971",0,Dominion Energy,"01 Jul, 1998",United states of america,MILLSTONE-1,Permanent shutdown
+PWR,WH 4LP (DRYAMB),873,"14 Oct, 1966","01 Aug, 1974","Entergy Nuclear Operations, Inc.","Entergy Nuclear Operations, Inc.","30 Apr, 2020",United states of america,INDIAN POINT-2,Permanent shutdown
+BWR,BWR-3 (Mark 1),794,"14 Oct, 1966","16 Nov, 1971",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,DRESDEN-3,Operational
+PWR,WH 3LP (DRYAMB),693,"27 Apr, 1967","14 Dec, 1972",Florida Power & Light Co.,Florida Power & Light Co.,0,United states of america,TURKEY POINT-3,Operational
+PWR,WH 3LP (DRYAMB),693,"27 Apr, 1967","07 Sep, 1973",Florida Power & Light Co.,Florida Power & Light Co.,0,United states of america,TURKEY POINT-4,Operational
+BWR,BWR-3 (Mark 1),789,"15 Feb, 1967","18 Feb, 1973","Exelon (75%), MidAmerican Energy (25%)","Exelon Generation Co., LLC",0,United states of america,QUAD CITIES-1,Operational
+PWR,CE 2LP (DRYAMB),805,"14 Mar, 1967","31 Dec, 1971","Entergy Nuclear Operations, Inc.","Entergy Nuclear Operations, Inc.",0,United states of america,PALISADES,Operational
+BWR,BWR-4 (Mark 1),1065,"01 May, 1967","01 Aug, 1974",Tennessee Valley Authority,Tennessee Valley Authority,0,United states of america,BROWNS FERRY-1,Operational
+BWR,BWR-4 (Mark 1),1065,"01 May, 1967","01 Mar, 1975",Tennessee Valley Authority,Tennessee Valley Authority,0,United states of america,BROWNS FERRY-2,Operational
+PWR,WH 3LP (DRYAMB),700,"13 Apr, 1967","07 Mar, 1971","PROGRESS ENERGY Carolinas, Inc.",Progress Energy,0,United states of america,ROBINSON-2,Operational
+BWR,BWR-3 (Mark 1),545,"19 Jun, 1967","30 Jun, 1971",Xcel Energy,Northern States Power Co. (subsidiary of Xcel Energy),0,United states of america,MONTICELLO,Operational
+BWR,BWR-3 (Mark 1),789,"15 Feb, 1967","10 Mar, 1973","Exelon (75%), MidAmerican Energy (25%)","Exelon Generation Co., LLC",0,United states of america,QUAD CITIES-2,Operational
+PWR,WH 2LP (DRYAMB),497,"19 Jul, 1967","21 Dec, 1970","NextEra Energy Resources, LLC","NextEra Energy Resources, LLC",0,United states of america,POINT BEACH-1,Operational
+HTGR,0,330,"01 Sep, 1968","01 Jul, 1979",0,PUBLIC SERVICE CO. OF COLORADO,"29 Aug, 1989",United states of america,FORT ST. VRAIN,Permanent shutdown
+PWR,B&W LLP (DRYAMB),887,"06 Nov, 1967","15 Jul, 1973",Duke Energy Corp.,Duke Energy Corp.,0,United states of america,OCONEE-1,Operational
+PWR,B&W LLP (DRYAMB),887,"06 Nov, 1967","09 Sep, 1974",Duke Energy Corp.,Duke Energy Corp.,0,United states of america,OCONEE-2,Operational
+BWR,BWR-4 (Mark 1),514,"11 Dec, 1967","30 Nov, 1972","Entergy Nuclear Operations, Inc.","Entergy Nuclear Operations, Inc.","29 Dec, 2014",United states of america,VERMONT YANKEE,Permanent shutdown
+PWR,WH 4LP (DRYAMB),1090,"25 Sep, 1968","30 Jun, 1977","PSEG Power, Inc.","PSEG Nuclear, LLC",0,United states of america,SALEM-1,Operational
+PWR,WH 4LP (DRYAMB),1084,"23 Apr, 1968","07 May, 1985",PG&E Corporation,Pacific Gas and Electric Company,0,United states of america,DIABLO CANYON-1,Operational
+BWR,BWR-4 (Mark 1),1065,"31 Jan, 1968","05 Jul, 1974",EXELON Corp. (50%) PSEG Power (50%),"Exelon Generation Co., LLC",0,United states of america,PEACH BOTTOM-2,Operational
+BWR,BWR-4 (Mark 1),1065,"31 Jan, 1968","23 Dec, 1974",EXELON Corp. (50%) PSEG Power (50%),"Exelon Generation Co., LLC",0,United states of america,PEACH BOTTOM-3,Operational
+PWR,WH 3LP (DRYSUB),788,"25 Jun, 1968","22 Dec, 1972","Dominion Resources, Inc.",Dominion Energy,0,United states of america,SURRY-1,Operational
+PWR,WH 3LP (DRYSUB),788,"25 Jun, 1968","01 May, 1973","Dominion Resources, Inc.",Dominion Energy,0,United states of america,SURRY-2,Operational
+PWR,WH 2LP (DRYAMB),530,"25 Jun, 1968","16 Dec, 1973",Xcel Energy,Northern States Power Co. (subsidiary of Xcel Energy),0,United states of america,PRAIRIE ISLAND-1,Operational
+PWR,CE 2LP,478,"07 Jun, 1968","26 Sep, 1973",OMAHA PUBLIC POWER DISTRICT,"Exelon Generation Co., LLC","24 Oct, 2016",United states of america,FORT CALHOUN-1,Permanent shutdown
+PWR,WH 4LP (DRYAMB),965,"01 Nov, 1968","30 Aug, 1976","Entergy Nuclear Operations, Inc.","Entergy Nuclear Operations, Inc.","30 Apr, 2021",United states of america,INDIAN POINT-3,Permanent shutdown
+PWR,B&W LLP (DRYAMB),887,"06 Nov, 1967","16 Dec, 1974",Duke Energy Corp.,Duke Energy Corp.,0,United states of america,OCONEE-3,Operational
+PWR,B&W LLP (DRYAMB),819,"18 May, 1968","02 Sep, 1974",Exelon Corporation,"Exelon Generation Co., LLC","20 Sep, 2019",United states of america,THREE MILE ISLAND-1,Permanent shutdown
+PWR,PWR,175,"01 Nov, 1957","01 Jul, 1961",YANKEE ATOMIC ELECTRIC CO.,YANKEE ATOMIC ELECTRIC CO.,"01 Oct, 1991",United states of america,YANKEE NPS,Permanent shutdown
+BWR,BWR-3 (Mark 1),655,"26 Aug, 1968","01 Dec, 1972","Entergy Nuclear Operations, Inc.","Entergy Nuclear Operations, Inc.","31 May, 2019",United states of america,PILGRIM-1,Permanent shutdown
+PWR,WH 4LP,1040,"01 Dec, 1968","31 Dec, 1973","Exelon Generation Co., LLC","Exelon Generation Co., LLC","13 Feb, 1998",United states of america,ZION-1,Permanent shutdown
+BWR,BWR-4 (Mark 1),1065,"01 Jul, 1968","01 Mar, 1977",Tennessee Valley Authority,Tennessee Valley Authority,0,United states of america,BROWNS FERRY-3,Operational
+BWR,BWR-4 (Mark 1),778,"01 Jun, 1968","01 Jul, 1974",NEBRASKA PUBLIC POWER DISTRICT,"Entergy Nuclear Operations, Inc.",0,United states of america,COOPER,Operational
+PWR,PWR,265,"01 May, 1956","01 Oct, 1962","Entergy Nuclear Operations, Inc.","Entergy Nuclear Operations, Inc.","31 Oct, 1974",United states of america,INDIAN POINT-1,Permanent shutdown
+PWR,WH 2LP (DRYAMB),497,"25 Jul, 1968","01 Oct, 1972","NextEra Energy Resources, LLC","NextEra Energy Resources, LLC",0,United states of america,POINT BEACH-2,Operational
+PWR,B&W LLP (DRYAMB),825,"25 Sep, 1968","13 Mar, 1977",Duke Energy Corp.,Progress Energy,"05 Feb, 2013",United states of america,CRYSTAL RIVER-3,Permanent shutdown
+PWR,WH 4LP,1040,"01 Dec, 1968","17 Sep, 1974","Exelon Generation Co., LLC","Exelon Generation Co., LLC","13 Feb, 1998",United states of america,ZION-2,Permanent shutdown
+PWR,WH 2LP (DRYAMB),535,"06 Aug, 1968","16 Jun, 1974",Dominion Energy,Dominion Energy,"07 May, 2013",United states of america,KEWAUNEE,Permanent shutdown
+PWR,WH 2LP (DRYAMB),530,"25 Jun, 1969","21 Dec, 1974",Xcel Energy,Northern States Power Co. (subsidiary of Xcel Energy),0,United states of america,PRAIRIE ISLAND-2,Operational
+PWR,0,825,"01 Oct, 1968","28 Dec, 1972",0,MAINE YANKEE ATOMIC POWER CO.,"01 Aug, 1997",United states of america,MAINE YANKEE,Permanent shutdown
+PWR,WH 4LP (DRYAMB),1115,"25 Sep, 1968","13 Oct, 1981","PSEG Power, Inc.","PSEG Nuclear, LLC",0,United states of america,SALEM-2,Operational
+PWR,0,918,"01 Apr, 1969","17 Apr, 1975",0,SACRAMENTO MUNICIPAL UTILITY DISTRICT,"07 Jun, 1989",United states of america,RANCHO SECO-1,Permanent shutdown
+PWR,B&W LLP (DRYAMB),850,"01 Oct, 1968","19 Dec, 1974","ENTERGY ARKANSAS, INC.","Entergy Nuclear Operations, Inc.",0,United states of america,ANO-1,Operational
+PWR,WH 4LP (ICECDN),1030,"25 Mar, 1969","28 Aug, 1975","American Electric Power Company, Inc.","American Electric Power Company, Inc.",0,United states of america,COOK-1,Operational
+PWR,WH 4LP (ICECDN),1100,"25 Mar, 1969","01 Jul, 1978","American Electric Power Company, Inc.","American Electric Power Company, Inc.",0,United states of america,COOK-2,Operational
+PWR,CE 2LP (DRYAMB),845,"01 Jun, 1968","08 May, 1975",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,CALVERT CLIFFS-1,Operational
+PWR,CE 2LP (DRYAMB),845,"01 Jun, 1968","01 Apr, 1977",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,CALVERT CLIFFS-2,Operational
+PWR,0,906,"01 Nov, 1969","30 Dec, 1978",0,GENERAL PUBLIC UTILITIES (owned by FirstEnergy Corp.),"28 Mar, 1979",United states of america,THREE MILE ISLAND-2,Permanent shutdown
+BWR,BWR-4 (Mark 1),777,"30 Sep, 1968","31 Dec, 1975",GEORGIA POWER CO.,"Southern Nuclear Operating Company, Inc.",0,United states of america,HATCH-1,Operational
+BWR,-,809,"01 Nov, 1972","01 Aug, 1986",Long Island Lighting Company,Long Island Power Authority,"01 May, 1989",United states of america,SHOREHAM,Permanent shutdown
+PWR,WH 4LP (DRYAMB),1106,"09 Dec, 1970","13 Mar, 1986",PG&E Corporation,Pacific Gas and Electric Company,0,United states of america,DIABLO CANYON-2,Operational
+BWR,BWR-4 (Mark 1),821,"07 Feb, 1970","03 Nov, 1975","PROGRESS ENERGY Carolinas, Inc.",Progress Energy,0,United states of america,BRUNSWICK-2,Operational
+BWR,BWR-4 (Mark 1),821,"07 Feb, 1970","18 Mar, 1977","PROGRESS ENERGY Carolinas, Inc.",Progress Energy,0,United states of america,BRUNSWICK-1,Operational
+PWR,WH 4LP (ICECND),1148,"27 May, 1970","01 Jul, 1981",Tennessee Valley Authority,Tennessee Valley Authority,0,United states of america,SEQUOYAH-1,Operational
+PWR,WH 4LP (ICECND),1148,"27 May, 1970","01 Jun, 1982",Tennessee Valley Authority,Tennessee Valley Authority,0,United states of america,SEQUOYAH-2,Operational
+BWR,BWR-4 (Mark 1),601,"22 Jun, 1970","01 Feb, 1975","NextEra Energy Resources, LLC","NextEra Energy Resources, LLC","12 Oct, 2020",United states of america,DUANE ARNOLD-1,Permanent shutdown
+BWR,BWR-4 (Mark 1),821,"01 Sep, 1968","28 Jul, 1975",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,FITZPATRICK,Operational
+PWR,WH 3LP (DRYSUB),835,"26 Jun, 1970","01 Oct, 1976","PPL Susquehanna, LLC",FIRST ENERGY NUCLEAR OPERATING CO.,0,United states of america,BEAVER VALLEY-1,Operational
+PWR,CE 2LP (DRYAMB),830,"01 Jul, 1970","21 Dec, 1976",Florida Power & Light Co.,Florida Power & Light Co.,0,United states of america,ST. LUCIE-1,Operational
+PWR,CE 2LP (DRYAMB),870,"01 Nov, 1969","26 Dec, 1975","Dominion Resources, Inc.",Dominion Energy,0,United states of america,MILLSTONE-2,Operational
+PWR,WH 3LP (DRYSUB),907,"19 Feb, 1971","06 Jun, 1978",Virginia Electric Power Co.,Dominion Energy,0,United states of america,NORTH ANNA-1,Operational
+PWR,WH 3LP (DRYSUB),907,"19 Feb, 1971","14 Dec, 1980",Virginia Electric Power Co.,Dominion Energy,0,United states of america,NORTH ANNA-2,Operational
+BWR,BWR-4 (Mark 1),1093,"26 Sep, 1972","23 Jan, 1988",DTE Energy Co.,DETROIT EDISON CO.,0,United states of america,FERMI-2,Operational
+PWR,0,1130,"01 Feb, 1970","20 May, 1976",0,PORTLAND GENERAL ELECTRIC CO.,"09 Nov, 1992",United states of america,TROJAN,Permanent shutdown
+PWR,B&W RLP (DRYAMB),906,"01 Sep, 1970","31 Jul, 1978",CLEVELAND ELECTRIC ILLUMINATING CO.,FIRST ENERGY NUCLEAR OPERATING CO.,0,United states of america,DAVIS BESSE-1,Operational
+PWR,WH 3LP (DRYAMB),829,"01 Oct, 1970","01 Dec, 1977",Alabama Power Company,"Southern Nuclear Operating Company, Inc.",0,United states of america,FARLEY-1,Operational
+BWR,BWR-4 (Mark 2),1055,"19 Jun, 1974","01 Feb, 1986",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,LIMERICK-1,Operational
+BWR,BWR-4 (Mark 2),1055,"19 Jun, 1974","08 Jan, 1990",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,LIMERICK-2,Operational
+BWR,BWR-4 (Mark 1),1067,"01 Mar, 1976","20 Dec, 1986","PSEG Power, Inc.","PSEG Nuclear, LLC",0,United states of america,HOPE CREEK-1,Operational
+PWR,CE (2-loop) DRYAMB,1070,"01 Mar, 1974","08 Aug, 1983",SOUTHERN CALIFORNIA EDISON Co.,SOUTHERN CALIFORNIA EDISON Co.,"07 Jun, 2013",United states of america,SAN ONOFRE-2,Permanent shutdown
+PWR,CE (2-loop) DRYAMB,1070,"01 Mar, 1974","01 Apr, 1984",SOUTHERN CALIFORNIA EDISON Co.,SOUTHERN CALIFORNIA EDISON Co.,"07 Jun, 2013",United states of america,SAN ONOFRE-3,Permanent shutdown
+PWR,WH 3LP (DRYAMB),829,"01 Oct, 1970","30 Jul, 1981",Alabama Power Company,"Southern Nuclear Operating Company, Inc.",0,United states of america,FARLEY-2,Operational
+BWR,BWR-4 (Mark 1),784,"01 Feb, 1972","05 Sep, 1979",GEORGIA POWER CO.,"Southern Nuclear Operating Company, Inc.",0,United states of america,HATCH-2,Operational
+PWR,CE 2LP (DRYAMB),912,"06 Dec, 1968","26 Mar, 1980","ENTERGY ARKANSAS, INC.","Entergy Nuclear Operations, Inc.",0,United states of america,ANO-2,Operational
+PWR,WH 4LP (ICECND),1180,"01 Apr, 1971","01 Dec, 1981",Duke Energy Corp.,Duke Energy Corp.,0,United states of america,MCGUIRE-1,Operational
+PWR,WH 4LP (ICECND),1180,"01 Apr, 1971","01 Mar, 1984",Duke Energy Corp.,Duke Energy Corp.,0,United states of america,MCGUIRE-2,Operational
+BWR,BWR-5 (Mark 2),1078,"10 Sep, 1973","01 Jan, 1984",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,LASALLE-1,Operational
+BWR,BWR-5 (Mark 2),1078,"10 Sep, 1973","19 Oct, 1984",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,LASALLE-2,Operational
+PWR,CE 2LP (DRYAMB),1104,"14 Nov, 1974","24 Sep, 1985","ENTERGY LOUISIANA, INC.","Entergy Nuclear Operations, Inc.",0,United states of america,WATERFORD-3,Operational
+BWR,BWR-4 (Mark 2),1065,"02 Nov, 1973","08 Jun, 1983",PPL Corporation (former PENNSYLVANIA POWER & LIGHT CO. (PP&L)),"PPL Susquehanna, LLC",0,United states of america,SUSQUEHANNA-1,Operational
+BWR,BWR-4 (Mark 2),1065,"02 Nov, 1973","12 Feb, 1985",PPL Corporation (former PENNSYLVANIA POWER & LIGHT CO. (PP&L)),"PPL Susquehanna, LLC",0,United states of america,SUSQUEHANNA-2,Operational
+PWR,CE 2LP (DRYAMB),830,"02 Jun, 1977","08 Aug, 1983",Florida Power & Light Co.,Florida Power & Light Co.,0,United states of america,ST. LUCIE-2,Operational
+PWR,WH 4LP (ICECND),1218,"20 Jul, 1973","27 May, 1996",Tennessee Valley Authority,Tennessee Valley Authority,0,United states of america,WATTS BAR-1,Operational
+PWR,WH 4LP (ICECND),1165,"01 Sep, 1973","19 Oct, 2016",Tennessee Valley Authority,Tennessee Valley Authority,0,United states of america,WATTS BAR-2,Operational
+PWR,WH 3LP (DRYAMB),900,"21 Mar, 1973","01 Jan, 1984",SOUTH CAROLINA ELECTRIC & GAS CO.,SOUTH CAROLINA ELECTRIC & GAS CO.,0,United states of america,SUMMER-1,Operational
+BWR,BWR-5 (Mark 2),1100,"01 Aug, 1972","13 Dec, 1984",Energy Northwest,Energy Northwest,0,United states of america,COLUMBIA,Operational
+BWR,Superheater,17,"01 Jan, 1960","01 Sep, 1965",US DOE and Puerto Rico Electric Power Authority,DOE & PUERTO RICO WATER RESOURCES,"01 Jun, 1968",United states of america,BONUS,Permanent shutdown
+PWR,WH 3LP (DRYAMB),900,"28 Jan, 1978","02 May, 1987","PROGRESS ENERGY Carolinas, Inc.",Progress Energy,0,United states of america,HARRIS-1,Operational
+BWR,0,50,"01 Mar, 1963","07 Nov, 1969",0,DAIRYLAND POWER COOPERATIVE,"30 Apr, 1987",United states of america,LACROSSE,Permanent shutdown
+BWR,BWR-5 (Mark 2),1100,"01 Aug, 1975","11 Mar, 1988","Exelon Nuclear, Électricité de France","Exelon Generation Co., LLC",0,United states of america,NINE MILE POINT-2,Operational
+PWR,WH 3LP (DRYSUB),836,"03 May, 1974","17 Nov, 1987",OHIO EDISON CO.,FIRST ENERGY NUCLEAR OPERATING CO.,0,United states of america,BEAVER VALLEY-2,Operational
+PWR,WH 4LP (ICECND),1145,"01 May, 1974","29 Jun, 1985",North Carolina Electric Membership Corp.,Duke Energy Corp.,0,United states of america,CATAWBA-1,Operational
+PWR,WH 4LP (ICECND),1145,"01 May, 1974","19 Aug, 1986",North Carolina Municipal Power Agency No.1,Duke Energy Corp.,0,United states of america,CATAWBA-2,Operational
+BWR,BWR-6 (Mark 3),1250,"04 May, 1974","01 Jul, 1985","Systems Energy Resources, Inc","Entergy Nuclear Operations, Inc.",0,United states of america,GRAND GULF-1,Operational
+PWR,WH 4LP (DRYSUB),1159,"09 Aug, 1974","23 Apr, 1986","Dominion Resources, Inc.",Dominion Energy,0,United states of america,MILLSTONE-3,Operational
+PWR,WH 4LP (DRYAMB),1122,"01 Aug, 1976","01 Jun, 1987",GEORGIA POWER CO.,"Southern Nuclear Operating Company, Inc.",0,United states of america,VOGTLE-1,Operational
+PWR,WH 4LP (DRYAMB),1101,"01 Aug, 1976","20 May, 1989",GEORGIA POWER CO.,"Southern Nuclear Operating Company, Inc.",0,United states of america,VOGTLE-2,Operational
+BWR,BWR-6 (Mark 3),1205,"01 Oct, 1974","18 Nov, 1987",CLEVELAND ELECTRIC ILLUMINATING CO.,FIRST ENERGY NUCLEAR OPERATING CO.,0,United states of america,PERRY-1,Operational
+PWR,WH 4LP (DRYAMB),1149,"07 Jul, 1976","19 Aug, 1990","NextEra Energy Resources, LLC","NextEra Energy Resources, LLC",0,United states of america,SEABROOK-1,Operational
+PWR,WH 4LP (DRYAMB),1150,"19 Dec, 1974","13 Aug, 1990","Luminant Generation Company, LLC","Luminant Generation Company, LLC",0,United states of america,COMANCHE PEAK-1,Operational
+PWR,WH 4LP (DRYAMB),1150,"19 Dec, 1974","03 Aug, 1993","Luminant Generation Company, LLC","Luminant Generation Company, LLC",0,United states of america,COMANCHE PEAK-2,Operational
+PWR,WH 4LP (DRYAMB),1120,"01 Apr, 1975","16 Sep, 1985",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,BYRON-1,Operational
+PWR,WH 4LP (DRYAMB),1120,"01 Apr, 1975","02 Aug, 1987",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,BYRON-2,Operational
+PWR,WH 4LP (DRYAMB),1120,"01 Aug, 1975","29 Jul, 1988",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,BRAIDWOOD-1,Operational
+PWR,WH 4LP (DRYAMB),1120,"01 Aug, 1975","17 Oct, 1988",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,BRAIDWOOD-2,Operational
+BWR,BWR-6 (Mark 3),966,"25 Mar, 1977","16 Jun, 1986","ENTERGY GULF STATES, INC.","Entergy Nuclear Operations, Inc.",0,United states of america,RIVER BEND-1,Operational
+BWR,BWR-6 (Mark 3),950,"01 Oct, 1975","24 Nov, 1987",Exelon Corporation,"Exelon Generation Co., LLC",0,United states of america,CLINTON-1,Operational
+PWR,WH 4LP (DRYAMB),1170,"31 May, 1977","03 Sep, 1985",Kansas City Power & Light Co.,WOLF CREEK NUCLEAR OPERATING CORP.,0,United states of america,WOLF CREEK,Operational
+PWR,WH 4LP (DRYAMB),1171,"01 Sep, 1975","19 Dec, 1984","AMEREN UE, Union Electric Company","AMEREN UE, Union Electric Company",0,United states of america,CALLAWAY-1,Operational
+PWR,WH 4LP (DRYAMB),1250,"22 Dec, 1975","25 Aug, 1988","NRG Energy, Inc.",STP Nuclear Operating Co.,0,United states of america,SOUTH TEXAS-1,Operational
+PWR,WH 4LP (DRYAMB),1250,"22 Dec, 1975","19 Jun, 1989","NRG Energy, Inc.",STP Nuclear Operating Co.,0,United states of america,SOUTH TEXAS-2,Operational
+PWR,CE80 2LP (DRYAMB),1221,"25 May, 1976","28 Jan, 1986",ARIZONA PUBLIC SERVICE CO.,ARIZONA PUBLIC SERVICE CO.,0,United states of america,PALO VERDE-1,Operational
+PWR,CE80 2LP (DRYAMB),1304,"01 Jun, 1976","19 Sep, 1986",ARIZONA PUBLIC SERVICE CO.,ARIZONA PUBLIC SERVICE CO.,0,United states of america,PALO VERDE-2,Operational
+PWR,CE80 2LP (DRYAMB),1304,"01 Jun, 1976","08 Jan, 1988",ARIZONA PUBLIC SERVICE CO.,ARIZONA PUBLIC SERVICE CO.,0,United states of america,PALO VERDE-3,Operational
+PWR,CP1,921,"01 Jul, 1976","21 Jul, 1984",ESKOM,ESKOM,0,South africa,KOEBERG-1,Operational
+PWR,CP1,921,"01 Jul, 1976","09 Nov, 1985",ESKOM,ESKOM,0,South africa,KOEBERG-2,Operational
+PWR,VVER V-428,990,"20 Oct, 1999","17 May, 2007",Jiangsu Nuclear Power Corporation,Jiangsu Nuclear Power Corporation,0,China,TIANWAN-1,Operational
+PWR,VVER V-428,990,"20 Sep, 2000","16 Aug, 2007",Jiangsu Nuclear Power Corporation,Jiangsu Nuclear Power Corporation,0,China,TIANWAN-2,Operational
+PHWR,CANDU 6,677,"25 Sep, 1998","24 Jul, 2003","The Third Qinshan Joint Venture Company, LTD.","The Third Qinshan Joint Venture Company, LTD.",0,China,QINSHAN 3-2,Operational
+BWR,BWR-5,1067,"07 Nov, 2000","08 Dec, 2005","Tohoku Electric Power Co., Inc","Tohoku Electric Power Co., Inc",0,Japan,HIGASHI DORI-1 (TOHOKU),Operational
+BWR,ABWR,1108,"20 Aug, 2001","15 Mar, 2006",HOKURIKU ELECTRIC POWER CO.,HOKURIKU ELECTRIC POWER CO.,0,Japan,SHIKA-2,Operational
+BWR,ABWR,1325,"12 Jul, 2000","18 Jan, 2005","CHUBU ELECTRIC POWER CO., INC.","CHUBU ELECTRIC POWER CO., INC.",0,Japan,HAMAOKA-5,Operational
+PWR,VVER V-412,917,"31 Mar, 2002","31 Dec, 2014","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KUDANKULAM-1,Operational
+PWR,VVER V-412,917,"04 Jul, 2002","31 Mar, 2017","NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KUDANKULAM-2,Operational
+PWR,M (3-loop),866,"18 Nov, 2004","22 Dec, 2009","HOKKAIDO ELECTRIC POWER CO., INC.","HOKKAIDO ELECTRIC POWER CO., INC.",0,Japan,TOMARI-3,Operational
+FBR,Prototype,470,"23 Oct, 2004",0,Bharatiya Nabhikiya Vidyut Nigam Limited,Bharatiya Nabhikiya Vidyut Nigam Limited,0,India,PFBR,Under Construction
+PWR,EPR,1600,"12 Aug, 2005",0,TEOLLISUUDEN VOIMA OYJ,TEOLLISUUDEN VOIMA OYJ,0,Finland,OLKILUOTO-3,Under Construction
+BWR,ABWR,1325,"24 Oct, 2006",0,"THE CHUGOKU ELECTRIC POWER CO., INC.","THE CHUGOKU ELECTRIC POWER CO., INC.",0,Japan,SHIMANE-3,Under Construction
+PWR,OPR-1000,996,"16 Jun, 2006","28 Feb, 2011",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-KORI-1,Operational
+PWR,OPR-1000,996,"05 Jun, 2007","20 Jul, 2012",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-KORI-2,Operational
+BWR,ABWR,1328,"07 May, 2010",0,"ELECTRIC POWER DEVELOPMENT CO., LTD.","ELECTRIC POWER DEVELOPMENT CO., LTD.",0,Japan,OHMA,Under Construction
+PWR,EPR,1630,"03 Dec, 2007",0,ÉLECTRICITÉ DE FRANCE,ÉLECTRICITÉ DE FRANCE,0,France,FLAMANVILLE-3,Under Construction
+PWR,CPR-1000,1007,"15 Jun, 2006","07 Aug, 2011",Lingdong Nuclear Power Company Ltd.,"Daya Bay Nuclear Power Operations and Management Co, Ltd.",0,China,LING AO-4,Operational
+PWR,CNP-600,619,"28 Apr, 2006","05 Oct, 2010",NUCLEAR POWER PLANT QINSHAN JOINT VENTURE COMPANY LTD.,NUCLEAR POWER PLANT QINSHAN JOINT VENTURE COMPANY LTD.,0,China,QINSHAN 2-3,Operational
+PWR,CNP-600,619,"28 Jan, 2007","30 Dec, 2011",NUCLEAR POWER PLANT QINSHAN JOINT VENTURE COMPANY LTD.,NUCLEAR POWER PLANT QINSHAN JOINT VENTURE COMPANY LTD.,0,China,QINSHAN 2-4,Operational
+PWR,CPR-1000,1007,"15 Dec, 2005","15 Sep, 2010",Lingdong Nuclear Power Company Ltd.,"Daya Bay Nuclear Power Operations and Management Co, Ltd.",0,China,LING AO-3,Operational
+PWR,AP-1000,1157,"19 Apr, 2009","21 Sep, 2018","SANMEN NUCLEAR POWER CO., LTD.","SANMEN NUCLEAR POWER CO., LTD.",0,China,SANMEN-1,Operational
+PWR,AP-1000,1157,"15 Dec, 2009","05 Nov, 2018","SANMEN NUCLEAR POWER CO., LTD.","SANMEN NUCLEAR POWER CO., LTD.",0,China,SANMEN-2,Operational
+PWR,CPR-1000,1021,"16 Dec, 2008","25 Mar, 2014",Yangjiang Nuclear Power Company,Yangjiang Nuclear Power Company,0,China,YANGJIANG-1,Operational
+PWR,CPR-1000,1000,"04 Jun, 2009","05 Jun, 2015",Yangjiang Nuclear Power Company,Yangjiang Nuclear Power Company,0,China,YANGJIANG-2,Operational
+PWR,OPR-1000,997,"20 Nov, 2007","31 Jul, 2012",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-WOLSONG-1,Operational
+PWR,OPR-1000,993,"23 Sep, 2008","24 Jul, 2015",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-WOLSONG-2,Operational
+PWR,APR-1400,1416,"16 Oct, 2008","20 Dec, 2016",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-KORI-3,Operational
+PWR,APR-1400,1418,"19 Aug, 2009","29 Aug, 2019",Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-KORI-4,Operational
+PWR,APR-1400,1340,"10 Jul, 2012",0,Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-HANUL-1,Under Construction
+PWR,APR-1400,1340,"19 Jun, 2013",0,Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-HANUL-2,Under Construction
+PWR,PLWBR,60,"01 Jan, 1954","26 May, 1958",Department of Energy and Duquesne Light Co.,Department of Energy and Duquesne Light Co.,"01 Oct, 1982",United states of america,SHIPPINGPORT,Permanent shutdown
+X,LMGMR (SGR- Sodium cooled graphite moderated reactor),75,"01 Jan, 1959","01 Nov, 1963",HALLAM Nucler Power Facility,Atomic Energy Commission and Nebraska Public Power District,"01 Sep, 1964",United states of america,HALLAM,Permanent shutdown
+PWR,25,3,"01 Jan, 1960","01 Mar, 1967",Saxton Nuclear Experimanetal Corp.,Saxton Nuclear Experimental Reactor Corporation,"01 May, 1972",United states of america,SAXTON,Permanent shutdown
+BWR,25,24,"01 Jan, 1956","19 Oct, 1957",General Electric and Pacific Gas and Electric Company,General Electric,"09 Dec, 1963",United states of america,GE VALLECITOS,Permanent shutdown
+X,OCM (Organically Cooled and Moderated Reactor),11,"01 Jan, 1960","01 Nov, 1963",U.S. Atomic Energy Commission,City of Piqua Government,"01 Jan, 1966",United states of america,PIQUA,Permanent shutdown
+PWR,KLT-40S 'Floating',30,"15 Apr, 2007","22 May, 2020",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,AKADEMIK LOMONOSOV-1,Operational
+PWR,KLT-40S 'Floating',30,"15 Apr, 2007","22 May, 2020",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,AKADEMIK LOMONOSOV-2,Operational
+PWR,VVER V-392M,1114,"24 Jun, 2008","27 Feb, 2017",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,NOVOVORONEZH 2-1,Operational
+PWR,VVER V-392M,1114,"12 Jul, 2009","31 Oct, 2019",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,NOVOVORONEZH 2-2,Operational
+PWR,VVER V-491,1066,"25 Oct, 2008","29 Oct, 2018",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,LENINGRAD 2-1,Operational
+PWR,VVER V-491,1066,"15 Apr, 2010","18 Mar, 2021",Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,LENINGRAD 2-2,Operational
+PWR,VVER V-510K,1175,"29 Apr, 2018",0,Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KURSK 2-1,Under Construction
+PWR,CPR-1000,1061,"18 Aug, 2007","06 Jun, 2013",Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),0,China,HONGYANHE-1,Operational
+PWR,CPR-1000,1061,"28 Mar, 2008","13 May, 2014",Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),0,China,HONGYANHE-2,Operational
+PWR,CPR-1000,1061,"07 Mar, 2009","16 Aug, 2015",Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),0,China,HONGYANHE-3,Operational
+PWR,CPR-1000,1061,"15 Aug, 2009","08 Jun, 2016",Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),0,China,HONGYANHE-4,Operational
+PWR,AP-1000,1126,"24 Sep, 2009","22 Oct, 2018",China Power Investment Corporation,"Shandong Nuclear Power Company, Ltd.",0,China,HAIYANG-1,Operational
+PWR,AP-1000,1126,"20 Jun, 2010","09 Jan, 2019",China Power Investment Corporation,"Shandong Nuclear Power Company, Ltd.",0,China,HAIYANG-2,Operational
+PWR,CPR-1000,1000,"26 Dec, 2008","15 Dec, 2014",CHINA NATIONAL NUCLEAR CORPORATION,QINSHAN NUCLEAR POWER COMPANY,0,China,FANGJIASHAN-1,Operational
+PWR,CPR-1000,1000,"17 Jul, 2009","12 Feb, 2015",CHINA NATIONAL NUCLEAR CORPORATION,QINSHAN NUCLEAR POWER COMPANY,0,China,FANGJIASHAN-2,Operational
+PWR,CNP-1000,1000,"21 Nov, 2008","22 Nov, 2014","CNNC Fujian Fuqing Nuclear Power Co., LTD","CNNC Fujian Fuqing Nuclear Power Co., LTD",0,China,FUQING-1,Operational
+PWR,CNP-1000,1000,"17 Jun, 2009","16 Oct, 2015","CNNC Fujian Fuqing Nuclear Power Co., LTD","CNNC Fujian Fuqing Nuclear Power Co., LTD",0,China,FUQING-2,Operational
+PWR,EPR-1750,1660,"18 Nov, 2009","13 Dec, 2018",Taishan Nuclear Power Joint Venture Company Limited,Taishan Nuclear Power Joint Venture Company Limited,0,China,TAISHAN-1,Operational
+PWR,EPR-1750,1660,"15 Apr, 2010",0,Taishan Nuclear Power Joint Venture Company Limited,Taishan Nuclear Power Joint Venture Company Limited,0,China,TAISHAN-2,Under Construction
+PWR,CPR-1000,1018,"18 Feb, 2008","15 Apr, 2013","Fujian Ningde Nuclear Power Company, Ltd.","Fujian Ningde Nuclear Power Company, Ltd.",0,China,NINGDE-1,Operational
+PWR,CPR-1000,1018,"12 Nov, 2008","04 May, 2014","Fujian Ningde Nuclear Power Company, Ltd.","Fujian Ningde Nuclear Power Company, Ltd.",0,China,NINGDE-2,Operational
+PWR,CPR-1000,1018,"08 Jan, 2010","10 Jun, 2015","Fujian Ningde Nuclear Power Company, Ltd.","Fujian Ningde Nuclear Power Company, Ltd.",0,China,NINGDE-3,Operational
+PWR,CPR-1000,1018,"29 Sep, 2010","21 Jul, 2016","Fujian Ningde Nuclear Power Company, Ltd.","Fujian Ningde Nuclear Power Company, Ltd.",0,China,NINGDE-4,Operational
+PWR,CPR-1000,1000,"15 Nov, 2010","01 Jan, 2016",Yangjiang Nuclear Power Company,Yangjiang Nuclear Power Company,0,China,YANGJIANG-3,Operational
+PWR,CPR-1000,1000,"17 Nov, 2012","15 Mar, 2017",Yangjiang Nuclear Power Company,Yangjiang Nuclear Power Company,0,China,YANGJIANG-4,Operational
+PWR,ACPR-1000,1021,"18 Sep, 2013","12 Jul, 2018",Yangjiang Nuclear Power Company,Yangjiang Nuclear Power Company,0,China,YANGJIANG-5,Operational
+PWR,ACPR-1000,1000,"23 Dec, 2013","24 Jul, 2019",Yangjiang Nuclear Power Company,Yangjiang Nuclear Power Company,0,China,YANGJIANG-6,Operational
+PWR,CNP-1000,1000,"31 Dec, 2010","24 Oct, 2016","CNNC Fujian Fuqing Nuclear Power Co., LTD","CNNC Fujian Fuqing Nuclear Power Co., LTD",0,China,FUQING-3,Operational
+PWR,CNP-1000,1000,"17 Nov, 2012","17 Sep, 2017","CNNC Fujian Fuqing Nuclear Power Co., LTD","CNNC Fujian Fuqing Nuclear Power Co., LTD",0,China,FUQING-4,Operational
+PWR,HPR1000,1000,"07 May, 2015","29 Jan, 2021","CNNC Fujian Fuqing Nuclear Power Co., LTD","CNNC Fujian Fuqing Nuclear Power Co., LTD",0,China,FUQING-5,Operational
+PWR,HPR1000,1000,"22 Dec, 2015",0,"CNNC Fujian Fuqing Nuclear Power Co., LTD","CNNC Fujian Fuqing Nuclear Power Co., LTD",0,China,FUQING-6,Under Construction
+PWR,CNP-600,601,"25 Apr, 2010","25 Dec, 2015",Hainan Nuclear Power Company,Hainan Nuclear Power Company,0,China,CHANGJIANG-1,Operational
+PWR,CNP-600,601,"21 Nov, 2010","12 Aug, 2016",CHINA NATIONAL NUCLEAR CORPORATION,Hainan Nuclear Power Company,0,China,CHANGJIANG-2,Operational
+PWR,HPR1000,1000,"31 Mar, 2021",0,China Huaneng Group,China Huaneng Group,0,China,CHANGJIANG-3,Under Construction
+PWR,CPR-1000,1000,"30 Jul, 2010","01 Jan, 2016","Guangxi Fangchenggang Nuclear Power Company, Ltd.","Guangxi Fangchenggang Nuclear Power Company, Ltd.",0,China,FANGCHENGGANG-1,Operational
+PWR,CPR-1000,1000,"23 Dec, 2010","01 Oct, 2016","Guangxi Fangchenggang Nuclear Power Company, Ltd.","Guangxi Fangchenggang Nuclear Power Company, Ltd.",0,China,FANGCHENGGANG-2,Operational
+PWR,HPR1000,1000,"24 Dec, 2015",0,"Guangxi Fangchenggang Nuclear Power Company, Ltd.","Guangxi Fangchenggang Nuclear Power Company, Ltd.",0,China,FANGCHENGGANG-3,Under Construction
+PWR,HPR1000,1000,"23 Dec, 2016",0,"Guangxi Fangchenggang Nuclear Power Company, Ltd.","Guangxi Fangchenggang Nuclear Power Company, Ltd.",0,China,FANGCHENGGANG-4,Under Construction
+HTGR,HTR-PM,200,"09 Dec, 2012",0,China Huaneng Group,"Huaneng Shandong Shidao Bay Nuclear Power Company, Ltd.",0,China,SHIDAO BAY-1,Under Construction
+HWGCR,HWGCR: 2-loops,6,"01 Apr, 1962",0,Nationale Gesellschaft zur Förderung der industriellen Atomtechnik,Energie de l'Ouest Suisse,"21 Jan, 1969",Switzerland,LUCENS,Permanent shutdown
+PWR,VVER V-491,1109,"22 Feb, 2012",0,Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,BALTIC-1,Under Construction
+PWR,VVER V-428M,1060,"27 Dec, 2012","14 Feb, 2018",Jiangsu Nuclear Power Corporation,Jiangsu Nuclear Power Corporation,0,China,TIANWAN-3,Operational
+PWR,VVER V-428M,1060,"27 Sep, 2013","22 Dec, 2018",Jiangsu Nuclear Power Corporation,Jiangsu Nuclear Power Corporation,0,China,TIANWAN-4,Operational
+PWR,CNP-1000,1000,"27 Dec, 2015","08 Sep, 2020",Jiangsu Nuclear Power Corporation,Jiangsu Nuclear Power Corporation,0,China,TIANWAN-5,Operational
+PWR,CNP-1000,1000,"07 Sep, 2016","02 Jun, 2021",Jiangsu Nuclear Power Corporation,Jiangsu Nuclear Power Corporation,0,China,TIANWAN-6,Operational
+PHWR,PHWR-700,630,"22 Nov, 2010",0,"NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KAKRAPAR-3,Under Construction
+PHWR,PHWR-700,630,"22 Nov, 2010",0,"NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KAKRAPAR-4,Under Construction
+PWR,ACPR-1000,1061,"29 Mar, 2015",0,Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),0,China,HONGYANHE-5,Under Construction
+PWR,ACPR-1000,1061,"24 Jul, 2015",0,Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),Liaoning Hongyanhe Nuclear Power Co. Ltd. (LHNPC),0,China,HONGYANHE-6,Under Construction
+PWR,VVER V-510K,1175,"15 Apr, 2019",0,Joint Stock Company 'Concern Rosenergoatom',Joint Stock Company 'Concern Rosenergoatom',0,Russia,KURSK 2-2,Under Construction
+PWR,AP-1000,1117,"12 Mar, 2013",0,GEORGIA POWER CO.,"Southern Nuclear Operating Company, Inc.",0,United states of america,VOGTLE-3,Under Construction
+PWR,AP-1000,1117,"19 Nov, 2013",0,GEORGIA POWER CO.,"Southern Nuclear Operating Company, Inc.",0,United states of america,VOGTLE-4,Under Construction
+PWR,CNP-300,315,"28 May, 2011","06 Dec, 2016",PAKISTAN ATOMIC ENERGY COMMISSION,PAKISTAN ATOMIC ENERGY COMMISSION,0,Pakistan,CHASNUPP-3,Operational
+PWR,CNP-300,313,"18 Dec, 2011","19 Sep, 2017",PAKISTAN ATOMIC ENERGY COMMISSION,PAKISTAN ATOMIC ENERGY COMMISSION,0,Pakistan,CHASNUPP-4,Operational
+FBR,BN-20,20,"10 May, 2000",0,CHINA NATIONAL NUCLEAR CORPORATION,CHINA INSTITUTE OF ATOMIC ENERGY,0,China,CEFR,Under Construction
+PWR,APR-1400,1345,"19 Jul, 2012","01 Apr, 2021",Emirates Nuclear Energy Corporation,Nawah Energy Company,0,United arab emirates,BARAKAH-1,Operational
+PWR,APR-1400,1345,"16 Apr, 2013",0,Emirates Nuclear Energy Corporation,Nawah Energy Company,0,United arab emirates,BARAKAH-2,Under Construction
+PWR,APR-1400,1345,"24 Sep, 2014",0,Emirates Nuclear Energy Corporation,Nawah Energy Company,0,United arab emirates,BARAKAH-3,Under Construction
+PWR,APR-1400,1345,"30 Jul, 2015",0,Emirates Nuclear Energy Corporation,Nawah Energy Company,0,United arab emirates,BARAKAH-4,Under Construction
+PWR,CAREM Prototype (Integrated-PWR),25,"08 Feb, 2014",0,COMISION NACIONAL DE ENERGIA ATOMICA,COMISION NACIONAL DE ENERGIA ATOMICA,0,Argentina,CAREM25,Under Construction
+PWR,VVER V-491,1110,"08 Nov, 2013","10 Jun, 2021","Republican Unitary Enterprise ""Belarusian Nuclear Power Plant""","Republican Unitary Enterprise ""Belarusian Nuclear Power Plant""",0,Belarus,BELARUSIAN-1,Operational
+PWR,VVER V-412,917,"29 Jun, 2017",0,"NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KUDANKULAM-3,Under Construction
+PWR,VVER V-412,917,"23 Oct, 2017",0,"NUCLEAR POWER CORPORATION OF INDIA, LTD.","NUCLEAR POWER CORPORATION OF INDIA, LTD.",0,India,KUDANKULAM-4,Under Construction
+PWR,VVER V-491,1110,"27 Apr, 2014",0,"Republican Unitary Enterprise ""Belarusian Nuclear Power Plant""","Republican Unitary Enterprise ""Belarusian Nuclear Power Plant""",0,Belarus,BELARUSIAN-2,Under Construction
+PWR,ACP-1000,1014,"20 Aug, 2015","21 May, 2021",PAKISTAN ATOMIC ENERGY COMMISSION,PAKISTAN ATOMIC ENERGY COMMISSION,0,Pakistan,KANUPP-2,Operational
+PWR,ACP-1000,1014,"31 May, 2016",0,PAKISTAN ATOMIC ENERGY COMMISSION,PAKISTAN ATOMIC ENERGY COMMISSION,0,Pakistan,KANUPP-3,Under Construction
+PWR,EPR-1750,1630,"11 Dec, 2018",0,EDF Energy - China General Nuclear joint venture,EDF Energy - China General Nuclear joint venture,0,United kingdom,HINKLEY POINT C-1,Under Construction
+PWR,EPR-1750,1630,"12 Dec, 2019",0,EDF Energy - China General Nuclear joint venture,EDF Energy - China General Nuclear joint venture,0,United kingdom,HINKLEY POINT C-2,Under Construction
+PWR,APR-1400,1340,"01 Apr, 2017",0,Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-KORI-5,Under Construction
+PWR,APR-1400,1340,"20 Sep, 2018",0,Korea Hydro and Nuclear Power Co.,Korea Hydro and Nuclear Power Co.,0,"Korea, republic of",SHIN-KORI-6,Under Construction
+PWR,VVER V-523,1080,"30 Nov, 2017",0,Bangladesh Atomic Energy Commission,Nuclear Power Plant Company Bangladesh Limited,0,Bangladesh,ROOPPUR-1,Under Construction
+PWR,VVER V-523,1080,"14 Jul, 2018",0,Bangladesh Atomic Energy Commission,Nuclear Power Plant Company Bangladesh Limited,0,Bangladesh,ROOPPUR-2,Under Construction
+PWR,VVER V-509,1114,"08 Apr, 2020",0,Akkuyu Nuclear Joint Stock Company,Akkuyu Nuclear Joint Stock Company,0,Turkey,AKKUYU-2,Under Construction
+PWR,VVER V-509,1114,"10 Mar, 2021",0,Akkuyu Nuclear Joint Stock Company,Akkuyu Nuclear Joint Stock Company,0,Turkey,AKKUYU-3,Under Construction
+PWR,HPR1000,1126,"16 Oct, 2019",0,"CNNP Guodian Zhangzhou Energy Co.,Ltd","CNNP Guodian Zhangzhou Energy Co.,Ltd",0,China,ZHANGZHOU-1,Under Construction
+PWR,HPR1000,1116,"26 Dec, 2019",0,"CGN Huizhou Nuclear Power Co.,Ltd,","CGN Huizhou Nuclear Power Co.,Ltd,",0,China,TAIPINGLING-1,Under Construction
+PWR,HPR-1000,1126,"04 Sep, 2020",0,"CNNP Guodian Zhangzhou Energy Co.,Ltd","CNNP Guodian Zhangzhou Energy Co.,Ltd",0,China,ZHANGZHOU-2,Under Construction
+PWR,HPR1000,1116,"15 Oct, 2020",0,"CGN Huizhou Nuclear Power Co.,Ltd,","CGN Huizhou Nuclear Power Co.,Ltd,",0,China,TAIPINGLING-2,Under Construction
+PWR,HRP1000,1117,"31 Dec, 2020",0,"CGN Cangnan Nuclear Co.,Ltd","CGN Cangnan Nuclear Co.,Ltd",0,China,SANAOCUN-1,Under Construction
+FBR,CFR600,642,"29 Dec, 2017",0,"CNNC Longyuan Technology Co. , Ltd",CHINA NATIONAL NUCLEAR CORPORATION,0,China,XIAPU-1,Under Construction

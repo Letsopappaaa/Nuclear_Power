@@ -1,0 +1,850 @@
+reactor_name;Calendar_Date_of_event;Event_name
+ANGRA-3;01 Jun, 2010;Construction start
+RAJASTHAN-7;01 Jul, 2011;Construction start
+RAJASTHAN-8;01 Sep, 2011;Construction start
+BUSHEHR-2;01 Sep, 2019;Construction start
+MOCHOVCE-3;01 Jan, 1987;Construction start
+MOCHOVCE-4;01 Jan, 1987;Construction start
+AKKUYU-1;01 Apr, 2018;Construction start
+KHMELNITSKI-3;01 Mar, 1986;Construction start
+KHMELNITSKI-4;01 Feb, 1987;Construction start
+PFBR;01 Oct, 2004;Construction start
+OLKILUOTO-3;01 Aug, 2005;Construction start
+SHIMANE-3;01 Oct, 2006;Construction start
+OHMA;01 May, 2010;Construction start
+FLAMANVILLE-3;01 Dec, 2007;Construction start
+SHIN-HANUL-1;01 Jul, 2012;Construction start
+SHIN-HANUL-2;01 Jun, 2013;Construction start
+KURSK 2-1;01 Apr, 2018;Construction start
+TAISHAN-2;01 Apr, 2010;Construction start
+FUQING-6;01 Dec, 2015;Construction start
+CHANGJIANG-3;01 Mar, 2021;Construction start
+FANGCHENGGANG-3;01 Dec, 2015;Construction start
+FANGCHENGGANG-4;01 Dec, 2016;Construction start
+SHIDAO BAY-1;01 Dec, 2012;Construction start
+BALTIC-1;01 Feb, 2012;Construction start
+KAKRAPAR-3;01 Nov, 2010;Construction start
+KAKRAPAR-4;01 Nov, 2010;Construction start
+HONGYANHE-5;01 Mar, 2015;Construction start
+HONGYANHE-6;01 Jul, 2015;Construction start
+CALDER HALL-4;01 Apr, 1959;Operation
+BILIBINO-1;01 Apr, 1974;Operation
+CALVERT CLIFFS-2;01 Apr, 1977;Operation
+FESSENHEIM-2;01 Apr, 1978;Operation
+BOHUNICE-1;01 Apr, 1980;Operation
+RAJASTHAN-2;01 Apr, 1981;Operation
+SAN ONOFRE-3;01 Apr, 1984;Operation
+CRUAS-2;01 Apr, 1985;Operation
+DUNGENESS B-1;01 Apr, 1985;Operation
+CATTENOM-1;01 Apr, 1987;Operation
+CHINON B-4;01 Apr, 1988;Operation
+DUNGENESS B-2;01 Apr, 1989;Operation
+HARTLEPOOL A-1;01 Apr, 1989;Operation
+HARTLEPOOL A-2;01 Apr, 1989;Operation
+HEYSHAM A-1;01 Apr, 1989;Operation
+HEYSHAM A-2;01 Apr, 1989;Operation
+HEYSHAM B-1;01 Apr, 1989;Operation
+HEYSHAM B-2;01 Apr, 1989;Operation
+QINSHAN-1;01 Apr, 1994;Operation
+CHAPELCROSS-2;01 Aug, 1959;Operation
+HUMBOLDT BAY;01 Aug, 1963;Operation
+PATHFINDER;01 Aug, 1966;Operation
+INDIAN POINT-2;01 Aug, 1974;Operation
+BROWNS FERRY-1;01 Aug, 1974;Operation
+ST. LAURENT B-1;01 Aug, 1983;Operation
+ST. LAURENT B-2;01 Aug, 1983;Operation
+CHINON B-2;01 Aug, 1984;Operation
+SHOREHAM;01 Aug, 1986;Operation
+APS-1 OBNINSK;01 Dec, 1954;Operation
+CHAPELCROSS-3;01 Dec, 1959;Operation
+BELOYARSK-2;01 Dec, 1969;Operation
+OYSTER CREEK;01 Dec, 1969;Operation
+NINE MILE POINT-1;01 Dec, 1969;Operation
+PILGRIM-1;01 Dec, 1972;Operation
+DOEL-2;01 Dec, 1975;Operation
+NECKARWESTHEIM-1;01 Dec, 1976;Operation
+MIHAMA-3;01 Dec, 1976;Operation
+FARLEY-1;01 Dec, 1977;Operation
+TRICASTIN-1;01 Dec, 1980;Operation
+TRICASTIN-2;01 Dec, 1980;Operation
+GRAVELINES-2;01 Dec, 1980;Operation
+BLAYAIS-1;01 Dec, 1981;Operation
+CAORSO;01 Dec, 1981;Operation
+MCGUIRE-1;01 Dec, 1981;Operation
+PALUEL-1;01 Dec, 1985;Operation
+PALUEL-2;01 Dec, 1985;Operation
+SUPER-PHENIX;01 Dec, 1986;Operation
+FLAMANVILLE-1;01 Dec, 1986;Operation
+PAKS-3;01 Dec, 1986;Operation
+IGNALINA-2;01 Dec, 1987;Operation
+PENLY-1;01 Dec, 1990;Operation
+CALDER HALL-2;01 Feb, 1957;Operation
+VAK KAHL;01 Feb, 1962;Operation
+CHINON A-1;01 Feb, 1964;Operation
+BILIBINO-2;01 Feb, 1975;Operation
+DUANE ARNOLD-1;01 Feb, 1975;Operation
+BILIBINO-3;01 Feb, 1976;Operation
+BRUCE-3;01 Feb, 1978;Operation
+POINT LEPREAU;01 Feb, 1983;Operation
+BLAYAIS-2;01 Feb, 1983;Operation
+PICKERING-6;01 Feb, 1984;Operation
+CHINON B-1;01 Feb, 1984;Operation
+GROHNDE;01 Feb, 1985;Operation
+PALUEL-3;01 Feb, 1986;Operation
+LIMERICK-1;01 Feb, 1986;Operation
+CATTENOM-2;01 Feb, 1988;Operation
+CATTENOM-3;01 Feb, 1991;Operation
+GOLFECH-1;01 Feb, 1991;Operation
+DAYA BAY-1;01 Feb, 1994;Operation
+ANGRA-2;01 Feb, 2001;Operation
+LATINA;01 Jan, 1964;Operation
+ENRICO FERMI;01 Jan, 1965;Operation
+WINFRITH SGHWR;01 Jan, 1968;Operation
+SAN ONOFRE-1;01 Jan, 1968;Operation
+HADDAM NECK;01 Jan, 1968;Operation
+NIEDERAICHBACH;01 Jan, 1973;Operation
+OSKARSHAMN-2;01 Jan, 1975;Operation
+RINGHALS-1;01 Jan, 1976;Operation
+BILIBINO-4;01 Jan, 1977;Operation
+FESSENHEIM-1;01 Jan, 1978;Operation
+BOHUNICE-2;01 Jan, 1981;Operation
+KRSKO;01 Jan, 1983;Operation
+LASALLE-1;01 Jan, 1984;Operation
+SUMMER-1;01 Jan, 1984;Operation
+ANGRA-1;01 Jan, 1985;Operation
+PICKERING-7;01 Jan, 1985;Operation
+BELLEVILLE-2;01 Jan, 1989;Operation
+NARORA-1;01 Jan, 1991;Operation
+CATTENOM-4;01 Jan, 1992;Operation
+HANBIT-4;01 Jan, 1996;Operation
+YANGJIANG-3;01 Jan, 2016;Operation
+FANGCHENGGANG-1;01 Jan, 2016;Operation
+YANKEE NPS;01 Jul, 1961;Operation
+BRADWELL-1;01 Jul, 1962;Operation
+HUNTERSTON A-2;01 Jul, 1964;Operation
+ELK RIVER;01 Jul, 1964;Operation
+GINNA;01 Jul, 1970;Operation
+BUGEY-1;01 Jul, 1972;Operation
+COOPER;01 Jul, 1974;Operation
+BARSEBACK-1;01 Jul, 1975;Operation
+DOUNREAY PFR;01 Jul, 1976;Operation
+BARSEBACK-2;01 Jul, 1977;Operation
+COOK-2;01 Jul, 1978;Operation
+BUGEY-4;01 Jul, 1979;Operation
+FORT ST. VRAIN;01 Jul, 1979;Operation
+SEQUOYAH-1;01 Jul, 1981;Operation
+ALMARAZ-2;01 Jul, 1984;Operation
+DOEL-4;01 Jul, 1985;Operation
+GRAND GULF-1;01 Jul, 1985;Operation
+NARORA-2;01 Jul, 1992;Operation
+WOLSONG-2;01 Jul, 1997;Operation
+WOLSONG-3;01 Jul, 1998;Operation
+GARIGLIANO;01 Jun, 1964;Operation
+PEACH BOTTOM-1;01 Jun, 1967;Operation
+EL-4 (MONTS D'ARREE);01 Jun, 1968;Operation
+ST. LAURENT A-1;01 Jun, 1969;Operation
+PICKERING-3;01 Jun, 1972;Operation
+GRAVELINES-3;01 Jun, 1981;Operation
+SEQUOYAH-2;01 Jun, 1982;Operation
+TIHANGE-2;01 Jun, 1983;Operation
+ONAGAWA-1;01 Jun, 1984;Operation
+PALUEL-4;01 Jun, 1986;Operation
+THTR-300;01 Jun, 1987;Operation
+VOGTLE-1;01 Jun, 1987;Operation
+BELLEVILLE-1;01 Jun, 1988;Operation
+RAJASTHAN-3;01 Jun, 2000;Operation
+CHAPELCROSS-1;01 Mar, 1959;Operation
+CHAPELCROSS-4;01 Mar, 1960;Operation
+WINDSCALE AGR;01 Mar, 1963;Operation
+SAXTON;01 Mar, 1967;Operation
+MILLSTONE-1;01 Mar, 1971;Operation
+BROWNS FERRY-2;01 Mar, 1975;Operation
+BROWNS FERRY-3;01 Mar, 1977;Operation
+BUGEY-2;01 Mar, 1979;Operation
+BUGEY-3;01 Mar, 1979;Operation
+MCGUIRE-2;01 Mar, 1984;Operation
+BRUCE-5;01 Mar, 1985;Operation
+ST. ALBAN-2;01 Mar, 1987;Operation
+CALDER HALL-3;01 May, 1958;Operation
+AGESTA;01 May, 1964;Operation
+GENTILLY-1;01 May, 1972;Operation
+SURRY-2;01 May, 1973;Operation
+RINGHALS-2;01 May, 1975;Operation
+GREIFSWALD-3;01 May, 1978;Operation
+IGNALINA-1;01 May, 1985;Operation
+ST. ALBAN-1;01 May, 1986;Operation
+NOGENT-2;01 May, 1989;Operation
+HALLAM;01 Nov, 1963;Operation
+PIQUA;01 Nov, 1963;Operation
+ST. LAURENT A-2;01 Nov, 1971;Operation
+WYLFA-1;01 Nov, 1971;Operation
+LENINGRAD-1;01 Nov, 1974;Operation
+GOESGEN;01 Nov, 1979;Operation
+GREIFSWALD-4;01 Nov, 1979;Operation
+TRICASTIN-4;01 Nov, 1981;Operation
+BELOYARSK-3;01 Nov, 1981;Operation
+PAKS-4;01 Nov, 1987;Operation
+GREIFSWALD-5;01 Nov, 1989;Operation
+PENLY-2;01 Nov, 1992;Operation
+CERNAVODA-2;01 Nov, 2007;Operation
+CALDER HALL-1;01 Oct, 1956;Operation
+ROLPHTON NPD;01 Oct, 1962;Operation
+DOUNREAY DFR;01 Oct, 1962;Operation
+INDIAN POINT-1;01 Oct, 1962;Operation
+LINGEN;01 Oct, 1968;Operation
+POINT BEACH-2;01 Oct, 1972;Operation
+TIHANGE-1;01 Oct, 1975;Operation
+BEAVER VALLEY-1;01 Oct, 1976;Operation
+GRAVELINES-4;01 Oct, 1981;Operation
+DOEL-3;01 Oct, 1982;Operation
+GENTILLY-2;01 Oct, 1983;Operation
+BLAYAIS-4;01 Oct, 1983;Operation
+WOLSONG-4;01 Oct, 1999;Operation
+FANGCHENGGANG-2;01 Oct, 2016;Operation
+BONUS;01 Sep, 1965;Operation
+BRUCE-1;01 Sep, 1977;Operation
+BRUCE-2;01 Sep, 1977;Operation
+ALMARAZ-1;01 Sep, 1983;Operation
+TIHANGE-3;01 Sep, 1985;Operation
+KAKRAPAR-2;01 Sep, 1995;Operation
+CRUAS-1;01 Apr, 1984;Operation
+HDR GROSSWELZHEIM;01 Aug, 1970;Operation
+VANDELLOS-1;01 Aug, 1972;Operation
+BYRON-2;01 Aug, 1987;Operation
+SOUTH UKRAINE-1;01 Dec, 1983;Operation
+CERNAVODA-1;01 Dec, 1996;Operation
+OHI-4;01 Feb, 1993;Operation
+SMOLENSK-2;01 Jul, 1985;Operation
+KASHIWAZAKI KARIWA-7;01 Jul, 1997;Operation
+TIANWAN-6;01 Jun, 2021;Operation
+HARRIS-1;01 May, 1987;Operation
+HINKLEY POINT B-1;01 Oct, 1978;Operation
+THREE MILE ISLAND-1;01 Sep, 1974;Operation
+COMANCHE PEAK-2;01 Aug, 1993;Operation
+KOLA-3;01 Dec, 1982;Operation
+FUKUSHIMA-DAINI-2;01 Feb, 1984;Operation
+TORNESS-2;01 Feb, 1989;Operation
+WYLFA-2;01 Jan, 1972;Operation
+BUGEY-5;01 Jan, 1980;Operation
+KNK II;01 Mar, 1979;Operation
+KALININ-2;01 Mar, 1987;Operation
+ARMENIAN-2;01 May, 1980;Operation
+DUKOVANY-1;01 May, 1985;Operation
+QINSHAN 2-2;01 May, 2004;Operation
+BRUNSWICK-2;01 Nov, 1975;Operation
+WOLF CREEK;01 Sep, 1985;Operation
+HAMAOKA-4;01 Sep, 1993;Operation
+G-3 (MARCOULE);01 Apr, 1960;Operation
+CHINON A-3;01 Aug, 1966;Operation
+RAJASTHAN-5;01 Feb, 2010;Operation
+DRESDEN-1;01 Jul, 1960;Operation
+SENDAI-1;01 Jul, 1984;Operation
+BEZNAU-2;01 Mar, 1972;Operation
+CHINON B-3;01 Mar, 1987;Operation
+GOLFECH-2;01 Mar, 1994;Operation
+NINGDE-2;01 May, 2014;Operation
+OHI-2;01 Dec, 1979;Operation
+HUNTERSTON A-1;01 Feb, 1964;Operation
+KURSK-4;01 Feb, 1986;Operation
+LOVIISA-2;01 Jan, 1981;Operation
+PEACH BOTTOM-2;01 Jul, 1974;Operation
+TAKAHAMA-4;01 Jun, 1985;Operation
+YANGJIANG-2;01 Jun, 2015;Operation
+ZAPOROZHYE-3;01 Mar, 1987;Operation
+HINKLEY POINT A-2;01 May, 1965;Operation
+SANMEN-2;01 Nov, 2018;Operation
+QINSHAN 2-3;01 Oct, 2010;Operation
+HATCH-2;01 Sep, 1979;Operation
+SOUTH UKRAINE-2;01 Apr, 1985;Operation
+ROVNO-4;01 Apr, 2006;Operation
+TRILLO-1;01 Aug, 1988;Operation
+KOLA-4;01 Dec, 1984;Operation
+OSKARSHAMN-1;01 Feb, 1972;Operation
+HUNTERSTON B-1;01 Feb, 1976;Operation
+NORTH ANNA-1;01 Jun, 1978;Operation
+HONGYANHE-1;01 Jun, 2013;Operation
+KAKRAPAR-1;01 May, 1993;Operation
+DAYA BAY-2;01 May, 1994;Operation
+KAIGA-3;01 May, 2007;Operation
+MUEHLEBERG;01 Nov, 1972;Operation
+ARMENIAN-1;01 Oct, 1977;Operation
+UNTERWESER;01 Sep, 1979;Operation
+FERMI-1;01 Aug, 1966;Operation
+LING AO-4;01 Aug, 2011;Operation
+KANUPP-1;01 Dec, 1972;Operation
+FORSMARK-2;01 Jul, 1981;Operation
+ROBINSON-2;01 Mar, 1971;Operation
+DIABLO CANYON-1;01 May, 1985;Operation
+LACROSSE;01 Nov, 1969;Operation
+KASHIWAZAKI KARIWA-6;01 Nov, 1996;Operation
+TURKEY POINT-4;01 Sep, 1973;Operation
+BALAKOVO-3;01 Apr, 1989;Operation
+SAN ONOFRE-2;01 Aug, 1983;Operation
+ST. LUCIE-2;01 Aug, 1983;Operation
+HIGASHI DORI-1 (TOHOKU);01 Dec, 2005;Operation
+PALO VERDE-3;01 Jan, 1988;Operation
+LIMERICK-2;01 Jan, 1990;Operation
+LING AO-2;01 Jan, 2003;Operation
+CHERNOBYL-3;01 Jun, 1982;Operation
+SUSQUEHANNA-1;01 Jun, 1983;Operation
+HONGYANHE-4;01 Jun, 2016;Operation
+VANDELLOS-2;01 Mar, 1988;Operation
+CALVERT CLIFFS-1;01 May, 1975;Operation
+KALININ-3;01 Nov, 2005;Operation
+TIANWAN-5;01 Sep, 2020;Operation
+ISAR-2;01 Apr, 1988;Operation
+BEZNAU-1;01 Dec, 1969;Operation
+BRUNSBUETTEL;01 Feb, 1977;Operation
+HAIYANG-2;01 Jan, 2019;Operation
+DRESDEN-2;01 Jun, 1970;Operation
+FLAMANVILLE-2;01 Mar, 1987;Operation
+LOVIISA-1;01 May, 1977;Operation
+KOEBERG-2;01 Nov, 1985;Operation
+DARLINGTON-2;01 Oct, 1990;Operation
+OCONEE-2;01 Sep, 1974;Operation
+RINGHALS-3;01 Sep, 1981;Operation
+BRUCE-7;01 Apr, 1986;Operation
+KASHIWAZAKI KARIWA-5;01 Apr, 1990;Operation
+LAGUNA VERDE-2;01 Apr, 1995;Operation
+PAKS-1;01 Aug, 1983;Operation
+CHINSHAN-1;01 Dec, 1978;Operation
+FORSMARK-1;01 Dec, 1980;Operation
+ASCO-1;01 Dec, 1984;Operation
+ROSTOV-2;01 Dec, 2010;Operation
+SHIMANE-2;01 Feb, 1989;Operation
+OLKILUOTO-2;01 Jul, 1982;Operation
+HANBIT-2;01 Jun, 1987;Operation
+TEMELIN-1;01 Jun, 2002;Operation
+NINGDE-3;01 Jun, 2015;Operation
+QUAD CITIES-2;01 Mar, 1973;Operation
+PICKERING-5;01 May, 1983;Operation
+KOZLODUY-2;01 Nov, 1975;Operation
+BR-3;01 Oct, 1962;Operation
+OLKILUOTO-1;01 Oct, 1979;Operation
+DAMPIERRE-1;01 Sep, 1980;Operation
+CRUAS-3;01 Sep, 1984;Operation
+HANUL-1;01 Sep, 1988;Operation
+MOCHOVCE-2;01 Apr, 2000;Operation
+KASHIWAZAKI KARIWA-3;01 Aug, 1993;Operation
+KASHIWAZAKI KARIWA-4;01 Aug, 1994;Operation
+HANUL-3;01 Aug, 1998;Operation
+LENINGRAD-2;01 Feb, 1976;Operation
+CRUAS-4;01 Feb, 1985;Operation
+COFRENTES;01 Mar, 1985;Operation
+NINE MILE POINT-2;01 Mar, 1988;Operation
+SANTA MARIA DE GARONA;01 May, 1971;Operation
+TRICASTIN-3;01 May, 1981;Operation
+WUERGASSEN;01 Nov, 1975;Operation
+RHEINSBERG;01 Oct, 1966;Operation
+GUNDREMMINGEN-A;01 Apr, 1967;Operation
+TOMARI-2;01 Apr, 1991;Operation
+CHANGJIANG-2;01 Aug, 2016;Operation
+SUSQUEHANNA-2;01 Feb, 1985;Operation
+FANGJIASHAN-2;01 Feb, 2015;Operation
+GREIFSWALD-1;01 Jul, 1974;Operation
+YANGJIANG-5;01 Jul, 2018;Operation
+BERKELEY-1;01 Jun, 1962;Operation
+KALININ-1;01 Jun, 1985;Operation
+BRADWELL-2;01 Nov, 1962;Operation
+KURSK-1;01 Oct, 1977;Operation
+FUKUSHIMA-DAIICHI-4;01 Oct, 1978;Operation
+SMOLENSK-3;01 Oct, 1990;Operation
+TARAPUR-4;01 Sep, 2005;Operation
+JOSE CABRERA-1;01 Aug, 1969;Operation
+KHMELNITSKI-1;01 Aug, 1988;Operation
+COMANCHE PEAK-1;01 Aug, 1990;Operation
+COLUMBIA;01 Dec, 1984;Operation
+TAISHAN-1;01 Dec, 2018;Operation
+CRYSTAL RIVER-3;01 Mar, 1977;Operation
+DIABLO CANYON-2;01 Mar, 1986;Operation
+HONGYANHE-2;01 May, 2014;Operation
+SALEM-2;01 Oct, 1981;Operation
+NOVOVORONEZH-2;01 Apr, 1970;Operation
+ZAPOROZHYE-4;01 Apr, 1988;Operation
+TURKEY POINT-3;01 Dec, 1972;Operation
+NORTH ANNA-2;01 Dec, 1980;Operation
+BOHUNICE-3;01 Feb, 1985;Operation
+DARLINGTON-3;01 Feb, 1993;Operation
+TIANWAN-3;01 Feb, 2018;Operation
+PHENIX;01 Jul, 1974;Operation
+DARLINGTON-4;01 Jun, 1993;Operation
+TSURUGA-1;01 Mar, 1970;Operation
+TAKAHAMA-1;01 Nov, 1974;Operation
+TAKAHAMA-2;01 Nov, 1975;Operation
+BLAYAIS-3;01 Nov, 1983;Operation
+PAKS-2;01 Nov, 1984;Operation
+DARLINGTON-1;01 Nov, 1992;Operation
+BRUCE-6;01 Sep, 1984;Operation
+CHOOZ-A (ARDENNES);01 Apr, 1967;Operation
+NECKARWESTHEIM-2;01 Apr, 1989;Operation
+QINSHAN 2-1;01 Apr, 2002;Operation
+NINGDE-1;01 Apr, 2013;Operation
+OSKARSHAMN-3;01 Aug, 1985;Operation
+LEIBSTADT;01 Dec, 1984;Operation
+IKATA-3;01 Dec, 1994;Operation
+KHMELNITSKI-2;01 Dec, 2005;Operation
+FANGJIASHAN-1;01 Dec, 2014;Operation
+DOEL-1;01 Feb, 1975;Operation
+ZAPOROZHYE-2;01 Feb, 1986;Operation
+GRAVELINES-5;01 Jan, 1985;Operation
+OCONEE-1;01 Jul, 1973;Operation
+CHINSHAN-2;01 Jul, 1979;Operation
+JPDR;01 Mar, 1965;Operation
+SHIKA-2;01 Mar, 2006;Operation
+YANGJIANG-4;01 Mar, 2017;Operation
+CHOOZ B-1;01 May, 2000;Operation
+GENKAI-1;01 Oct, 1975;Operation
+SIZEWELL A-2;01 Sep, 1966;Operation
+CHASNUPP-1;01 Sep, 2000;Operation
+LING AO-3;01 Sep, 2010;Operation
+GREIFSWALD-2;01 Apr, 1975;Operation
+TIANWAN-2;01 Aug, 2007;Operation
+HONGYANHE-3;01 Aug, 2015;Operation
+RAJASTHAN-1;01 Dec, 1973;Operation
+PRAIRIE ISLAND-1;01 Dec, 1973;Operation
+OCONEE-3;01 Dec, 1974;Operation
+DAMPIERRE-2;01 Feb, 1981;Operation
+AKTAU;01 Jul, 1973;Operation
+KEWAUNEE;01 Jun, 1974;Operation
+RIVER BEND-1;01 Jun, 1986;Operation
+KUOSHENG-2;01 Mar, 1983;Operation
+KAIGA-2;01 Mar, 2000;Operation
+ROVNO-3;01 May, 1987;Operation
+DRESDEN-3;01 Nov, 1971;Operation
+KAIGA-1;01 Nov, 2000;Operation
+FUQING-2;01 Oct, 2015;Operation
+BYRON-1;01 Sep, 1985;Operation
+RANCHO SECO-1;01 Apr, 1975;Operation
+KURSK-2;01 Aug, 1979;Operation
+TSURUGA-2;01 Feb, 1987;Operation
+TAKAHAMA-3;01 Jan, 1985;Operation
+PICKERING-4;01 Jun, 1973;Operation
+GRAFENRHEINFELD;01 Jun, 1982;Operation
+HAMAOKA-1;01 Mar, 1976;Operation
+TIANWAN-1;01 May, 2007;Operation
+BEAVER VALLEY-2;01 Nov, 1987;Operation
+BRAIDWOOD-2;01 Oct, 1988;Operation
+ZION-2;01 Sep, 1974;Operation
+ZAPOROZHYE-6;01 Sep, 1996;Operation
+ROSTOV-3;01 Sep, 2015;Operation
+FUQING-4;01 Sep, 2017;Operation
+FUKUSHIMA-DAIICHI-5;01 Apr, 1978;Operation
+PHILIPPSBURG-2;01 Apr, 1985;Operation
+TEMELIN-2;01 Apr, 2003;Operation
+FORSMARK-3;01 Aug, 1985;Operation
+MUELHEIM-KAERLICH;01 Aug, 1987;Operation
+TARAPUR-3;01 Aug, 2006;Operation
+CVTR;01 Dec, 1963;Operation
+BOHUNICE-4;01 Dec, 1985;Operation
+OHI-3;01 Dec, 1991;Operation
+QUAD CITIES-1;01 Feb, 1973;Operation
+BRUCE-4;01 Jan, 1979;Operation
+GUNDREMMINGEN-C;01 Jan, 1985;Operation
+BALAKOVO-2;01 Jan, 1988;Operation
+HAMAOKA-5;01 Jan, 2005;Operation
+FUKUSHIMA-DAIICHI-2;01 Jul, 1974;Operation
+BRUNSWICK-1;01 Mar, 1977;Operation
+GENKAI-3;01 Mar, 1994;Operation
+LENINGRAD 2-2;01 Mar, 2021;Operation
+MAANSHAN-2;01 May, 1985;Operation
+CHASNUPP-2;01 May, 2011;Operation
+PERRY-1;01 Nov, 1987;Operation
+KASHIWAZAKI KARIWA-1;01 Sep, 1985;Operation
+CATAWBA-2;01 Aug, 1986;Operation
+SEABROOK-1;01 Aug, 1990;Operation
+MZFR;01 Dec, 1966;Operation
+ANO-1;01 Dec, 1974;Operation
+CALLAWAY-1;01 Dec, 1984;Operation
+GUNDREMMINGEN-B;01 Jul, 1984;Operation
+DUKOVANY-4;01 Jul, 1987;Operation
+SOUTH TEXAS-2;01 Jun, 1989;Operation
+IKATA-2;01 Mar, 1982;Operation
+AVR JUELICH;01 May, 1969;Operation
+STADE;01 May, 1972;Operation
+GE VALLECITOS;01 Oct, 1957;Operation
+LASALLE-2;01 Oct, 1984;Operation
+WATTS BAR-2;01 Oct, 2016;Operation
+PALO VERDE-2;01 Sep, 1986;Operation
+FUKUSHIMA-DAINI-1;01 Apr, 1982;Operation
+DUKOVANY-3;01 Dec, 1986;Operation
+HOPE CREEK-1;01 Dec, 1986;Operation
+SHIN-KORI-3;01 Dec, 2016;Operation
+NOVOVORONEZH-5;01 Feb, 1981;Operation
+KOZLODUY-3;01 Jan, 1981;Operation
+EMBALSE;01 Jan, 1984;Operation
+KAIGA-4;01 Jan, 2011;Operation
+SHIN-KORI-2;01 Jul, 2012;Operation
+KOZLODUY-4;01 Jun, 1982;Operation
+EMSLAND;01 Jun, 1988;Operation
+FUGEN ATR;01 Mar, 1979;Operation
+TROJAN;01 May, 1976;Operation
+VOGTLE-2;01 May, 1989;Operation
+DAMPIERRE-4;01 Nov, 1981;Operation
+BERKELEY-2;01 Oct, 1962;Operation
+POINT BEACH-1;01 Dec, 1970;Operation
+PRAIRIE ISLAND-2;01 Dec, 1974;Operation
+ST. LUCIE-1;01 Dec, 1976;Operation
+KOLA-2;01 Feb, 1975;Operation
+KOEBERG-1;01 Jul, 1984;Operation
+NINGDE-4;01 Jul, 2016;Operation
+FUKUSHIMA-DAINI-3;01 Jun, 1985;Operation
+ISAR-1;01 Mar, 1979;Operation
+DUKOVANY-2;01 Mar, 1986;Operation
+MADRAS-2;01 Mar, 1986;Operation
+HANBIT-5;01 May, 2002;Operation
+RINGHALS-4;01 Nov, 1983;Operation
+SANMEN-1;01 Sep, 2018;Operation
+G-2 (MARCOULE);01 Apr, 1959;Operation
+WOLSONG-1;01 Apr, 1983;Operation
+HANUL-6;01 Apr, 2005;Operation
+SURRY-1;01 Dec, 1972;Operation
+BROKDORF;01 Dec, 1986;Operation
+BALAKOVO-4;01 Dec, 1993;Operation
+TOMARI-3;01 Dec, 2009;Operation
+TIANWAN-4;01 Dec, 2018;Operation
+TOMARI-1;01 Jun, 1989;Operation
+BRUCE-8;01 May, 1987;Operation
+AKADEMIK LOMONOSOV-1;01 May, 2020;Operation
+AKADEMIK LOMONOSOV-2;01 May, 2020;Operation
+FUQING-1;01 Nov, 2014;Operation
+HAIYANG-1;01 Oct, 2018;Operation
+ROVNO-1;01 Sep, 1981;Operation
+SIZEWELL B;01 Sep, 1995;Operation
+MILLSTONE-3;01 Apr, 1986;Operation
+CIVAUX-2;01 Apr, 2002;Operation
+PEACH BOTTOM-3;01 Dec, 1974;Operation
+KOZLODUY-5;01 Dec, 1988;Operation
+RAJASTHAN-4;01 Dec, 2000;Operation
+FERMI-2;01 Jan, 1988;Operation
+BALAKOVO-1;01 May, 1986;Operation
+BUSHEHR-1;01 Sep, 2013;Operation
+HANBIT-6;01 Dec, 2002;Operation
+CHINON A-2;01 Feb, 1965;Operation
+NOGENT-1;01 Feb, 1988;Operation
+QINSHAN 3-2;01 Jul, 2003;Operation
+SHIN-WOLSONG-2;01 Jul, 2015;Operation
+YANGJIANG-6;01 Jul, 2019;Operation
+ATUCHA-1;01 Jun, 1974;Operation
+TRAWSFYNYDD-1;01 Mar, 1965;Operation
+TRAWSFYNYDD-2;01 Mar, 1965;Operation
+NOVOVORONEZH-4;01 Mar, 1973;Operation
+CLINTON-1;01 Nov, 1987;Operation
+FUKUSHIMA-DAIICHI-6;01 Oct, 1979;Operation
+FUQING-3;01 Oct, 2016;Operation
+WATERFORD-3;01 Sep, 1985;Operation
+HANBIT-1;01 Aug, 1986;Operation
+FUKUSHIMA-DAINI-4;01 Aug, 1987;Operation
+SOUTH TEXAS-1;01 Aug, 1988;Operation
+BOHUNICE A1;01 Dec, 1972;Operation
+ZAPOROZHYE-1;01 Dec, 1985;Operation
+ROSTOV-1;01 Dec, 2001;Operation
+KALININ-4;01 Dec, 2012;Operation
+CHANGJIANG-1;01 Dec, 2015;Operation
+TOKAI-1;01 Jul, 1966;Operation
+MIHAMA-2;01 Jul, 1972;Operation
+KORI-2;01 Jul, 1983;Operation
+GENKAI-4;01 Jul, 1997;Operation
+SIZEWELL A-1;01 Mar, 1966;Operation
+YANGJIANG-1;01 Mar, 2014;Operation
+TORNESS-1;01 May, 1988;Operation
+GRAVELINES-1;01 Nov, 1980;Operation
+GRAVELINES-6;01 Oct, 1985;Operation
+BELOYARSK-1;01 Apr, 1964;Operation
+MILLSTONE-2;01 Dec, 1975;Operation
+BIBLIS-A;01 Feb, 1975;Operation
+DODEWAARD;01 Mar, 1969;Operation
+FUKUSHIMA-DAIICHI-1;01 Mar, 1971;Operation
+PHILIPPSBURG-1;01 Mar, 1980;Operation
+ANO-2;01 Mar, 1980;Operation
+CHERNOBYL-4;01 Mar, 1984;Operation
+SHIPPINGPORT;01 May, 1958;Operation
+ATUCHA-2;01 May, 2016;Operation
+BORSSELE;01 Oct, 1973;Operation
+DOUGLAS POINT;01 Sep, 1968;Operation
+FORT CALHOUN-1;01 Sep, 1973;Operation
+NOVOVORONEZH 2-1;01 Feb, 2017;Operation
+MADRAS-1;01 Jan, 1984;Operation
+MAANSHAN-1;01 Jul, 1984;Operation
+FUKUSHIMA-DAIICHI-3;01 Mar, 1976;Operation
+OHI-1;01 Mar, 1979;Operation
+CHERNOBYL-1;01 May, 1978;Operation
+DAMPIERRE-3;01 May, 1981;Operation
+WATTS BAR-1;01 May, 1996;Operation
+ZAPOROZHYE-5;01 Oct, 1989;Operation
+HINKLEY POINT B-2;01 Sep, 1976;Operation
+COOK-1;01 Aug, 1975;Operation
+HAMAOKA-3;01 Aug, 1987;Operation
+MAINE YANKEE;01 Dec, 1972;Operation
+KOLA-1;01 Dec, 1973;Operation
+KUOSHENG-1;01 Dec, 1981;Operation
+PICKERING-8;01 Feb, 1986;Operation
+SHIN-KORI-1;01 Feb, 2011;Operation
+PALO VERDE-1;01 Jan, 1986;Operation
+FITZPATRICK;01 Jul, 1975;Operation
+ONAGAWA-2;01 Jul, 1995;Operation
+KRUEMMEL;01 Mar, 1984;Operation
+CHERNOBYL-2;01 May, 1979;Operation
+LING AO-1;01 May, 2002;Operation
+MIHAMA-1;01 Nov, 1970;Operation
+TOKAI-2;01 Nov, 1978;Operation
+SENDAI-2;01 Nov, 1985;Operation
+DUNGENESS A-1;01 Oct, 1965;Operation
+TARAPUR-1;01 Oct, 1969;Operation
+TARAPUR-2;01 Oct, 1969;Operation
+KOZLODUY-1;01 Oct, 1974;Operation
+KASHIWAZAKI KARIWA-2;01 Sep, 1990;Operation
+ROSTOV-4;01 Sep, 2018;Operation
+KORI-1;01 Apr, 1978;Operation
+KORI-4;01 Apr, 1986;Operation
+LENINGRAD-4;01 Aug, 1981;Operation
+SHIN-KORI-4;01 Aug, 2019;Operation
+SOUTH UKRAINE-3;01 Dec, 1989;Operation
+CIVAUX-1;01 Jan, 2002;Operation
+FUQING-5;01 Jan, 2021;Operation
+PICKERING-1;01 Jul, 1971;Operation
+ROVNO-2;01 Jul, 1982;Operation
+BRAIDWOOD-1;01 Jul, 1988;Operation
+LAGUNA VERDE-1;01 Jul, 1990;Operation
+HANUL-5;01 Jul, 2004;Operation
+NOVOVORONEZH-3;01 Jun, 1972;Operation
+LENINGRAD-3;01 Jun, 1980;Operation
+CATAWBA-1;01 Jun, 1985;Operation
+BIG ROCK POINT;01 Mar, 1963;Operation
+SHIMANE-1;01 Mar, 1974;Operation
+HAMAOKA-2;01 Nov, 1978;Operation
+MOCHOVCE-1;01 Oct, 1998;Operation
+LENINGRAD 2-1;01 Oct, 2018;Operation
+CHOOZ B-2;01 Sep, 2000;Operation
+INDIAN POINT-3;01 Aug, 1976;Operation
+DUNGENESS A-2;01 Dec, 1965;Operation
+PICKERING-2;01 Dec, 1971;Operation
+THREE MILE ISLAND-2;01 Dec, 1978;Operation
+KOZLODUY-6;01 Dec, 1993;Operation
+QINSHAN 2-4;01 Dec, 2011;Operation
+ONAGAWA-3;01 Jan, 2002;Operation
+FARLEY-2;01 Jul, 1981;Operation
+SHIKA-1;01 Jul, 1993;Operation
+MONTICELLO;01 Jun, 1971;Operation
+SALEM-1;01 Jun, 1977;Operation
+HINKLEY POINT A-1;01 Mar, 1965;Operation
+GENKAI-2;01 Mar, 1981;Operation
+KURSK-3;01 Mar, 1984;Operation
+VERMONT YANKEE;01 Nov, 1972;Operation
+OLDBURY A-2;01 Sep, 1968;Operation
+IKATA-1;01 Sep, 1977;Operation
+SMOLENSK-1;01 Sep, 1983;Operation
+KORI-3;01 Sep, 1985;Operation
+HANUL-2;01 Sep, 1989;Operation
+NOVOVORONEZH-1;01 Dec, 1964;Operation
+OLDBURY A-1;01 Dec, 1967;Operation
+PALISADES;01 Dec, 1971;Operation
+ZION-1;01 Dec, 1973;Operation
+HATCH-1;01 Dec, 1975;Operation
+HANUL-4;01 Dec, 1999;Operation
+QINSHAN 3-1;01 Dec, 2002;Operation
+KUDANKULAM-1;01 Dec, 2014;Operation
+BIBLIS-B;01 Jan, 1977;Operation
+DAVIS BESSE-1;01 Jul, 1978;Operation
+SHIN-WOLSONG-1;01 Jul, 2012;Operation
+OBRIGHEIM;01 Mar, 1969;Operation
+HUNTERSTON B-2;01 Mar, 1977;Operation
+ASCO-2;01 Mar, 1986;Operation
+HANBIT-3;01 Mar, 1995;Operation
+RAJASTHAN-6;01 Mar, 2010;Operation
+KUDANKULAM-2;01 Mar, 2017;Operation
+BELOYARSK-4;01 Oct, 2016;Operation
+NOVOVORONEZH 2-2;01 Oct, 2019;Operation
+MONJU;01 Dec, 2017;Shutdown
+LUCENS;01 Jan, 1969;Shutdown
+CALDER HALL-4;01 Mar, 2003;Shutdown
+BILIBINO-1;01 Jan, 2019;Shutdown
+FESSENHEIM-2;01 Jun, 2020;Shutdown
+BOHUNICE-1;01 Dec, 2006;Shutdown
+SAN ONOFRE-3;01 Jun, 2013;Shutdown
+CHAPELCROSS-2;01 Jun, 2004;Shutdown
+HUMBOLDT BAY;01 Jul, 1976;Shutdown
+PATHFINDER;01 Oct, 1967;Shutdown
+INDIAN POINT-2;01 Apr, 2020;Shutdown
+SHOREHAM;01 May, 1989;Shutdown
+APS-1 OBNINSK;01 Apr, 2002;Shutdown
+CHAPELCROSS-3;01 Jun, 2004;Shutdown
+BELOYARSK-2;01 Jan, 1990;Shutdown
+OYSTER CREEK;01 Sep, 2018;Shutdown
+PILGRIM-1;01 May, 2019;Shutdown
+NECKARWESTHEIM-1;01 Aug, 2011;Shutdown
+CAORSO;01 Jul, 1990;Shutdown
+SUPER-PHENIX;01 Dec, 1998;Shutdown
+IGNALINA-2;01 Dec, 2009;Shutdown
+CALDER HALL-2;01 Mar, 2003;Shutdown
+VAK KAHL;01 Nov, 1985;Shutdown
+CHINON A-1;01 Apr, 1973;Shutdown
+DUANE ARNOLD-1;01 Oct, 2020;Shutdown
+LATINA;01 Dec, 1987;Shutdown
+ENRICO FERMI;01 Jul, 1990;Shutdown
+WINFRITH SGHWR;01 Sep, 1990;Shutdown
+SAN ONOFRE-1;01 Nov, 1992;Shutdown
+HADDAM NECK;01 Dec, 1996;Shutdown
+NIEDERAICHBACH;01 Jul, 1974;Shutdown
+OSKARSHAMN-2;01 Dec, 2016;Shutdown
+RINGHALS-1;01 Dec, 2020;Shutdown
+FESSENHEIM-1;01 Feb, 2020;Shutdown
+BOHUNICE-2;01 Dec, 2008;Shutdown
+YANKEE NPS;01 Oct, 1991;Shutdown
+BRADWELL-1;01 Mar, 2002;Shutdown
+HUNTERSTON A-2;01 Dec, 1989;Shutdown
+ELK RIVER;01 Feb, 1968;Shutdown
+BUGEY-1;01 May, 1994;Shutdown
+BARSEBACK-1;01 Nov, 1999;Shutdown
+DOUNREAY PFR;01 Mar, 1994;Shutdown
+BARSEBACK-2;01 May, 2005;Shutdown
+FORT ST. VRAIN;01 Aug, 1989;Shutdown
+GARIGLIANO;01 Mar, 1982;Shutdown
+PEACH BOTTOM-1;01 Nov, 1974;Shutdown
+EL-4 (MONTS D'ARREE);01 Jul, 1985;Shutdown
+ST. LAURENT A-1;01 Apr, 1990;Shutdown
+PICKERING-3;01 Oct, 2008;Shutdown
+ONAGAWA-1;01 Dec, 2018;Shutdown
+THTR-300;01 Sep, 1988;Shutdown
+CHAPELCROSS-1;01 Jun, 2004;Shutdown
+CHAPELCROSS-4;01 Jun, 2004;Shutdown
+WINDSCALE AGR;01 Apr, 1981;Shutdown
+SAXTON;01 May, 1972;Shutdown
+MILLSTONE-1;01 Jul, 1998;Shutdown
+CALDER HALL-3;01 Mar, 2003;Shutdown
+AGESTA;01 Jun, 1974;Shutdown
+GENTILLY-1;01 Jun, 1977;Shutdown
+RINGHALS-2;01 Dec, 2019;Shutdown
+GREIFSWALD-3;01 Feb, 1990;Shutdown
+IGNALINA-1;01 Dec, 2004;Shutdown
+HALLAM;01 Sep, 1964;Shutdown
+PIQUA;01 Jan, 1966;Shutdown
+ST. LAURENT A-2;01 May, 1992;Shutdown
+WYLFA-1;01 Dec, 2015;Shutdown
+LENINGRAD-1;01 Dec, 2018;Shutdown
+GREIFSWALD-4;01 Jul, 1990;Shutdown
+GREIFSWALD-5;01 Nov, 1989;Shutdown
+CALDER HALL-1;01 Mar, 2003;Shutdown
+ROLPHTON NPD;01 Aug, 1987;Shutdown
+DOUNREAY DFR;01 Mar, 1977;Shutdown
+INDIAN POINT-1;01 Oct, 1974;Shutdown
+LINGEN;01 Jan, 1977;Shutdown
+GENTILLY-2;01 Dec, 2012;Shutdown
+BONUS;01 Jun, 1968;Shutdown
+HDR GROSSWELZHEIM;01 Apr, 1971;Shutdown
+VANDELLOS-1;01 Jul, 1990;Shutdown
+THREE MILE ISLAND-1;01 Sep, 2019;Shutdown
+FUKUSHIMA-DAINI-2;01 Sep, 2019;Shutdown
+WYLFA-2;01 Apr, 2012;Shutdown
+KNK II;01 Aug, 1991;Shutdown
+G-3 (MARCOULE);01 Jun, 1984;Shutdown
+CHINON A-3;01 Jun, 1990;Shutdown
+DRESDEN-1;01 Oct, 1978;Shutdown
+OHI-2;01 Mar, 2018;Shutdown
+HUNTERSTON A-1;01 Mar, 1990;Shutdown
+HINKLEY POINT A-2;01 May, 2000;Shutdown
+OSKARSHAMN-1;01 Jun, 2017;Shutdown
+MUEHLEBERG;01 Dec, 2019;Shutdown
+ARMENIAN-1;01 Feb, 1989;Shutdown
+UNTERWESER;01 Aug, 2011;Shutdown
+FERMI-1;01 Nov, 1972;Shutdown
+LACROSSE;01 Apr, 1987;Shutdown
+SAN ONOFRE-2;01 Jun, 2013;Shutdown
+CHERNOBYL-3;01 Dec, 2000;Shutdown
+BRUNSBUETTEL;01 Aug, 2011;Shutdown
+CHINSHAN-1;01 Dec, 2018;Shutdown
+KOZLODUY-2;01 Dec, 2002;Shutdown
+BR-3;01 Jun, 1987;Shutdown
+LENINGRAD-2;01 Nov, 2020;Shutdown
+SANTA MARIA DE GARONA;01 Aug, 2017;Shutdown
+WUERGASSEN;01 Aug, 1994;Shutdown
+RHEINSBERG;01 Jun, 1990;Shutdown
+GUNDREMMINGEN-A;01 Jan, 1977;Shutdown
+GREIFSWALD-1;01 Feb, 1990;Shutdown
+BERKELEY-1;01 Mar, 1989;Shutdown
+BRADWELL-2;01 Mar, 2002;Shutdown
+FUKUSHIMA-DAIICHI-4;01 May, 2011;Shutdown
+JOSE CABRERA-1;01 Apr, 2006;Shutdown
+CRYSTAL RIVER-3;01 Feb, 2013;Shutdown
+NOVOVORONEZH-2;01 Aug, 1990;Shutdown
+PHENIX;01 Feb, 2010;Shutdown
+TSURUGA-1;01 Apr, 2015;Shutdown
+CHOOZ-A (ARDENNES);01 Oct, 1991;Shutdown
+CHINSHAN-2;01 Jul, 2019;Shutdown
+JPDR;01 Mar, 1976;Shutdown
+GENKAI-1;01 Apr, 2015;Shutdown
+SIZEWELL A-2;01 Dec, 2006;Shutdown
+GREIFSWALD-2;01 Feb, 1990;Shutdown
+AKTAU;01 Apr, 1999;Shutdown
+KEWAUNEE;01 May, 2013;Shutdown
+RANCHO SECO-1;01 Jun, 1989;Shutdown
+GRAFENRHEINFELD;01 Jun, 2015;Shutdown
+HAMAOKA-1;01 Jan, 2009;Shutdown
+ZION-2;01 Feb, 1998;Shutdown
+FUKUSHIMA-DAIICHI-5;01 Dec, 2013;Shutdown
+PHILIPPSBURG-2;01 Dec, 2019;Shutdown
+MUELHEIM-KAERLICH;01 Sep, 1988;Shutdown
+CVTR;01 Jan, 1967;Shutdown
+FUKUSHIMA-DAIICHI-2;01 May, 2011;Shutdown
+MZFR;01 May, 1984;Shutdown
+GUNDREMMINGEN-B;01 Dec, 2017;Shutdown
+IKATA-2;01 May, 2018;Shutdown
+AVR JUELICH;01 Dec, 1988;Shutdown
+STADE;01 Nov, 2003;Shutdown
+GE VALLECITOS;01 Dec, 1963;Shutdown
+FUKUSHIMA-DAINI-1;01 Sep, 2019;Shutdown
+KOZLODUY-3;01 Dec, 2006;Shutdown
+KOZLODUY-4;01 Dec, 2006;Shutdown
+FUGEN ATR;01 Mar, 2003;Shutdown
+TROJAN;01 Nov, 1992;Shutdown
+BERKELEY-2;01 Oct, 1988;Shutdown
+FUKUSHIMA-DAINI-3;01 Sep, 2019;Shutdown
+ISAR-1;01 Aug, 2011;Shutdown
+G-2 (MARCOULE);01 Feb, 1980;Shutdown
+WOLSONG-1;01 Dec, 2019;Shutdown
+CHINON A-2;01 Jun, 1985;Shutdown
+TRAWSFYNYDD-1;01 Feb, 1991;Shutdown
+TRAWSFYNYDD-2;01 Feb, 1991;Shutdown
+FUKUSHIMA-DAIICHI-6;01 Dec, 2013;Shutdown
+FUKUSHIMA-DAINI-4;01 Sep, 2019;Shutdown
+BOHUNICE A1;01 Feb, 1977;Shutdown
+TOKAI-1;01 Mar, 1998;Shutdown
+MIHAMA-2;01 Apr, 2015;Shutdown
+SIZEWELL A-1;01 Dec, 2006;Shutdown
+BELOYARSK-1;01 Jan, 1983;Shutdown
+BIBLIS-A;01 Aug, 2011;Shutdown
+DODEWAARD;01 Mar, 1997;Shutdown
+FUKUSHIMA-DAIICHI-1;01 May, 2011;Shutdown
+PHILIPPSBURG-1;01 Aug, 2011;Shutdown
+CHERNOBYL-4;01 Apr, 1986;Shutdown
+SHIPPINGPORT;01 Oct, 1982;Shutdown
+DOUGLAS POINT;01 May, 1984;Shutdown
+FORT CALHOUN-1;01 Oct, 2016;Shutdown
+FUKUSHIMA-DAIICHI-3;01 May, 2011;Shutdown
+OHI-1;01 Mar, 2018;Shutdown
+CHERNOBYL-1;01 Nov, 1996;Shutdown
+MAINE YANKEE;01 Aug, 1997;Shutdown
+KUOSHENG-1;01 Jul, 2021;Shutdown
+KRUEMMEL;01 Aug, 2011;Shutdown
+CHERNOBYL-2;01 Oct, 1991;Shutdown
+MIHAMA-1;01 Apr, 2015;Shutdown
+DUNGENESS A-1;01 Dec, 2006;Shutdown
+KOZLODUY-1;01 Dec, 2002;Shutdown
+KORI-1;01 Jun, 2017;Shutdown
+NOVOVORONEZH-3;01 Dec, 2016;Shutdown
+BIG ROCK POINT;01 Aug, 1997;Shutdown
+SHIMANE-1;01 Apr, 2015;Shutdown
+HAMAOKA-2;01 Jan, 2009;Shutdown
+INDIAN POINT-3;01 Apr, 2021;Shutdown
+DUNGENESS A-2;01 Dec, 2006;Shutdown
+PICKERING-2;01 May, 2007;Shutdown
+THREE MILE ISLAND-2;01 Mar, 1979;Shutdown
+HINKLEY POINT A-1;01 May, 2000;Shutdown
+GENKAI-2;01 Apr, 2019;Shutdown
+VERMONT YANKEE;01 Dec, 2014;Shutdown
+OLDBURY A-2;01 Jun, 2011;Shutdown
+IKATA-1;01 May, 2016;Shutdown
+NOVOVORONEZH-1;01 Feb, 1988;Shutdown
+OLDBURY A-1;01 Feb, 2012;Shutdown
+ZION-1;01 Feb, 1998;Shutdown
+BIBLIS-B;01 Aug, 2011;Shutdown
+OBRIGHEIM;01 May, 2005;Shutdown
