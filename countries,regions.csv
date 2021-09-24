@@ -25,7 +25,7 @@ Belize;BZ;BLZ;84;ISO 3166-2:BZ;Americas;Latin America and the Caribbean;Central 
 Benin;BJ;BEN;204;ISO 3166-2:BJ;Africa;Sub-Saharan Africa;Western Africa;2;202;11
 Bermuda;BM;BMU;60;ISO 3166-2:BM;Americas;Northern America;;19;21;
 Bhutan;BT;BTN;64;ISO 3166-2:BT;Asia;Southern Asia;;142;34;
-Bolivia (Plurinational State of);BO;BOL;68;ISO 3166-2:BO;Americas;Latin America and the Caribbean;South America;19;419;5
+Bolivia;BO;BOL;68;ISO 3166-2:BO;Americas;Latin America and the Caribbean;South America;19;419;5
 Bonaire, Sint Eustatius and Saba;BQ;BES;535;ISO 3166-2:BQ;Americas;Latin America and the Caribbean;Caribbean;19;419;29
 Bosnia and Herzegovina;BA;BIH;70;ISO 3166-2:BA;Europe;Southern Europe;;150;39;
 Botswana;BW;BWA;72;ISO 3166-2:BW;Africa;Sub-Saharan Africa;Southern Africa;2;202;18
@@ -248,3 +248,4 @@ Western Sahara;EH;ESH;732;ISO 3166-2:EH;Africa;Northern Africa;;2;15;
 Yemen;YE;YEM;887;ISO 3166-2:YE;Asia;Western Asia;;142;145;
 Zambia;ZM;ZMB;894;ISO 3166-2:ZM;Africa;Sub-Saharan Africa;Eastern Africa;2;202;14
 Zimbabwe;ZW;ZWE;716;ISO 3166-2:ZW;Africa;Sub-Saharan Africa;Eastern Africa;2;202;14
+Kosovo;;;;;;;;;;
